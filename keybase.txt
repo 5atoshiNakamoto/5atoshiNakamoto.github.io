@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/5atoshinakamoto
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://5atoshinakamoto.github.io
+  * I am 5atoshinakamoto (https://keybase.io/5atoshinakamoto) on keybase.
+  * I have a public key with fingerprint 51AE 7F50 3F5F 6404 FBEC  93CB F57A C7F1 9260 25C3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120af6eef2375617e690c2e66016975100ee0f543c09e80227ca311b6e0469768d60a",
+      "fingerprint": "51ae7f503f5f6404fbec93cbf57ac7f1926025c3",
+      "host": "keybase.io",
+      "key_id": "f57ac7f1926025c3",
+      "kid": "0101daede5c4fed5e8370b490c0cab52f49078f2d828b48a1b79cadc83c54f7b12980a",
+      "uid": "ca178e125a73f7838a6d4ef50b363b19",
+      "username": "5atoshinakamoto"
+    },
+    "service": {
+      "hostname": "5atoshinakamoto.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1668190449,
+  "expire_in": 157680000,
+  "prev": "1fb71a1d4d2d6528be1ecf580fdf30a598916b8087ae4bff78056382c661fe43",
+  "seqno": 51,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNwAnicbVJtUFRVGN6l+FhMQIYoGyi6LYUOwTn3+zJY+FFCOpNIMg0Qy7n3nrN7
+A/YuuwuKBjICUUbIOE1NMZGaiE4ODQPIVGRBmQjkx5QBQjWI4YTUALU0MSTdpfzn
++XPOec/zPu/zPuf9evU9plCzb+/5ucMF8V+ZB3tPl5oUZ+PcPkrW1XIqZR9ViFc2
+XKRij9dWqKlUCgUgDRDhMSY0I3A8FDAvAYXGPA8gLwkcBABjQDiWUYCERUDTgoIY
+CGUeA9YA8KLKA0QlUkRz2rHb5dacXoOWgwgLhAMM4QjPApbIWJEYRSacgBSBQInm
+Ac0pjJHo0D3+DEOcjDw4SdONmHGxrci7C/6ObgBVhFXMKSzBKodFRgAya2gHCpI5
+mhhHQSS0KtKizIoIyoKkIFURGYVjiSBDWhJXdJeu0CkICiKGNIcEhggiIyJeZbHR
+gMzwjAwlP9CD3U5UjP3dIa/ucWhOVIiKda9OVSRSxmOZpmC/v/6G7g5MsmteR6n8
+X48utxFR9CID5vB6XZ4UP4233OXP241l2/+MNllzqoa3RkYZdns03UmlQAOpeDV/
+CcjzIpQAy0qJFN7j0tzYpvkRnPEzwFj+OrjMoIREFiCCKqvSKs8ZpmCIFcKJgKiE
+AYiTRAnysghEAWFWJoYJgOMZkVZ4HhLM+p334BKnTqVw0NCJ7AanR7M7kbfUjamK
+vt68e03mUFNQYIB/6Eyhlog7o2jdFL6c/p4r+3brK0cSq3PHCuPMcRnrqycPxgYs
+HtOH/h4udJDg9Prt831nyITefkvJJjTa3JE83f9s6Lj18i8hEeHLGyeuDr49kk3M
+16uDLM2/dljyV01EZ5QLDTF/DHweFtbU6tpsycrhq2KaD9WP1wWNjH8RlZBW9lzl
+0Al8zt0emPnjrrf2i2mjPWk9z+zc/5s1q7vgI8eppeLZ4GugIzK1fXjpbF7bm8Mn
+rxbdsAzMnDrWFbNm07epg498VnLOMvDQldbbT1n3Xpz5cCZ33dz3u+pez7geWXx8
+ZENV3SRdutUV39wX3bkQKB+Ue4SmnoWb/Q2NR8srj/rop3+KXSYefWfwjRBfi3ds
+Y3wU187kQLr25+WHm8Z/YP5anxMhhK+inQ9Moxrfg+looX7wy6HwyG+6399R+dqh
+tIKE7bMZ6ndEvwC7L+74dE9+V+7Zgg1J+gdZF7ZWpNe+dCvgBThl6rduiU6pNefY
+DshXGkPqXesGOpMHS5jTVXl58N2phMmXu5a3ZTaMPtZAHs+8lH94bct8WZgn1VZc
+IvtqoufVqSdC8v5pe6Mqzjl203JtbWzveOZMZuXibvsJhksG4b/bS2ouSfevefVR
+7+gnL1YzLlfb8JmWTotj9cnQ8zVRC1Lykf53uqI/3uK7bDre1PDnEj97gCzmMkHu
+meetfdti58vvs04/Wf8v0L7Fjg==
+=oHjU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/5atoshinakamoto
+
+==================================================================
