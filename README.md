@@ -1,4 +1,5 @@
 # README.md
 
-*bold*<p>
+*bold*
+
 **italic**
