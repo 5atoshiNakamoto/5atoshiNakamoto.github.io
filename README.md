@@ -3,7 +3,6 @@
   <br/>
   
 ```
-
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGIQipcBEADcP/moYmcbVDXFwsvYcwyyeyMjGIJmxObdRXzElXBSgcmIsiZE
@@ -56,7 +55,6 @@ SQ47NOGZQEKPwRte8t+B5jmMwdurVWXx/uF65AoKMLgsl/bb8EJZmsULGV3N9D8B
 R2vc0U7pWTvZ7L3I+w==
 =5rNf
 -----END PGP PUBLIC KEY BLOCK-----
-
 ```
 
 </details>
