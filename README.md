@@ -1,5 +1,7 @@
-PGP key: `51AE 7F50 3F5F 6404 FBEC 93CB F57A C7F1 9260 25C3`
-
+<details>
+  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b>: <code>51AE 7F50 3F5F 6404 FBEC 93CB F57A C7F1 9260 25C3</code></summary>
+  <br/>
+  
 ```
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -55,5 +57,6 @@ R2vc0U7pWTvZ7L3I+w==
 =5rNf
 -----END PGP PUBLIC KEY BLOCK-----
 
-
 ```
+
+</details>
