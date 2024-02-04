@@ -37,6 +37,27 @@
             height: auto;
             display: block;
         }
+
+  details {
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  padding: 0.5em 0.5em 0;
+}
+
+summary {
+  font-weight: bold;
+  margin: -0.5em -0.5em 0;
+  padding: 0.5em;
+}
+
+details[open] {
+  padding: 0.5em;
+}
+
+details[open] summary {
+  border-bottom: 1px solid #aaa;
+  margin-bottom: 0.5em;
+}
     </style>
       
 <ul>
@@ -272,7 +293,7 @@ There's so much more that could be said, but I'll stop there. For more, listen t
 
      
 <details>
-<summary><b>Apps and Services</b></summary>
+<summary>Apps and Services</summary>
 <p>
   <li><a href="https://bitwarden.com/" target="_blank">Bitwarden</a> or <a href="https://keepassxc.org/" target="_blank">KeepassXC</a></li>
   <li><a href="https://getaegis.app/" target="_blank">Aegis</a> or <a href="https://authy.com/" target="_blank">Authy</a></li>
@@ -295,7 +316,7 @@ There's so much more that could be said, but I'll stop there. For more, listen t
       <br>
     
     <details>
-      <summary><b>Actions</b></summary>
+      <summary>Actions</summary>
 
       <li>Lowest Hanging Fruit: Over time, change all passwords to be unique and long (Bitwarden's easy)</li>
   <li>Cover your webcam</li>
