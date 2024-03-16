@@ -71,6 +71,12 @@ details[open] summary {
             padding: 8px;
             text-align: left;
         }
+          thead th {
+            position: sticky;
+            top: 0;
+            background-color: white; /* Optional: to hide header under the fixed header */
+            z-index: 1; /* Ensures header stays above other content */
+        }
     </style>
       
 <ul>
@@ -417,7 +423,8 @@ Just a fun little fact for ya.</p>
   <br>
   <center>(click the dropdown heading here to browse)</center><br>
 <details><summary>Last Updated: Sat. 16, Mar. 2024</summary>
-   <table id="audiobook-table">
+   <div style="overflow-x: auto;"> <!-- Wrapper div for horizontal scrolling -->
+     <table id="audiobook-table">
         <thead>
             <tr>
                 <th>#</th>
