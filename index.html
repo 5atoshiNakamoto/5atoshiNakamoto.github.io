@@ -424,7 +424,7 @@ Just a fun little fact for ya.</p>
   <a href="#contact">Reach out</a> however you like to ask for as many books as you'd like. We have found that sending them to someone over Signal or Telegram is the easiest way for them to get the .mp3 files right to their phone's favorite podcast app.<br>
   <br>
   <center>(click the dropdown heading here to browse)</center><br>
-<details><summary>Last Updated: Sat. 16, Mar. 2024</summary>
+<details><summary>Last Updated: Mon 18, Mar. 2024</summary>
    <div style="overflow-x: auto;"> <!-- Wrapper div for horizontal scrolling -->
      <table id="audiobook-table">
         <thead>
@@ -432,7 +432,7 @@ Just a fun little fact for ya.</p>
                 <th>#</th>
                 <th>Title</th>
               <th>Author</th>
-              <th>Notes</th>
+              <th>Year</th>
         
              </tr>
         </thead>
@@ -478,7 +478,7 @@ Just a fun little fact for ya.</p>
  
   
   <script>
-         fetch('./assets/audiobooks/audiobooks.csv')
+         fetch('./assets/audiobooks/audiobooks2.csv')
             .then(response => response.text())
             .then(data => {
                 const rows = data.split('\n');
