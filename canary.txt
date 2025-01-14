@@ -64,7 +64,7 @@ A gag order refers to any legal order enforceable in 5atoshiNakamoto's jurisdict
  * A request or order for technical assistance
  * Any other request, order, demand, or information of any type
 
-- - --
+**
 The next canary statement is planned to be published within a year, before 14, January, 2026.
 
 *Special note should be taken if no new canary gets published by that time, 
@@ -107,17 +107,17 @@ The most recent bitcoin block hash:
 (Block: 879,270)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmeG0jIACgkQ9XrH8ZJg
-JcNskRAAmN+r+OGvuWqR5LMGMX+nVEZ+2G1hN58ls6mMwN8zck9dWwfmiVtJcwMZ
-LDHtPhauxymmWgD5r6dQ2iThbyeCOBEh4OdOOIJ4ajOF2SkOPlNa1unaDi96tB1x
-X7KSdAIRcpnHFUGjwKaFWrhOT0wrHc+Tk3A4UJxK7d6uJoBw8hVbGydpIxkwrMQn
-pgL+xX0TX4CMmC7f5YNSzQIlfKvcpFVOBinCFD4xplY3PZamhWuwjQF9slDCPQNf
-vvnVoCCo7b3se8HRd7GR7EBJlNTu3jKGhuh9zjBDfm2DmBIthIAM6WjC5BpET/TF
-0ChuqUuaxK9Np/0gMtHrKmZaaW3QffwM6z+LgJZlqcARRJWrmATDbXt9DajV3cRT
-H+0a92OeDoVgy7Jq7Zb6X1C54R3xYVwIcq/psGiL7mDwg6mLDGLau+bRv+rqfAAJ
-pXv75C9cdhnB80ryJgDAf4hT2tpbTBGuJ9RDMgNSYgVHk85STfJ17epDn+otfRnw
-dJ2rsR7etCKrK7CV+O7YTqvB1OYh2dpwyWc46sL9I7y/VfL7xsOdk82f/yMEe6D0
-lgIP+q6k7pUSkBn0zec3feAJODxH0c7e0AbIj2Arya+J/k273aDa2oypErkYOGO2
-EsOvjgLgJsAEStElfctbx/GY9II3w8/JGKaIWqElNUXi1jLCf7c=
-=OIph
+iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmeG0s4ACgkQ9XrH8ZJg
+JcM2ARAAkrJAc/bnBX1rkc7qJwaMGTjuAFZhC2+FfFzIAsgWQ7OAmAmgbRKEKtwr
+JcYbWrW1/91QUp15fjGvzvTcolZ8wrdnxA68jtlQagQ41zEz9KtAIRYpEry3IPFB
+ux+mYZlop7WLslXZqbX0/e6l+UUDXVZOWTGn7dVXp1FKJgehX257PRJ+rbjv//My
+aC5Xy2fct96TufjZ0lYO2lfF7MBsuREvK1fCdFnZCjJwlV9ngoZsMeHirEzpUVE2
+IT2zWrc4OumEzq2m4lple5vuG2orNAK8F91JHnGUufKXN+pwMyjoIEtmqbyc6k5N
+R0LxehaBSroUMQ3aWG8HeWJfBqCjNc9vd2wCGNCfce7eR4HjZTFsatx4+mNWUZyf
+l1eFyZ67LMIgdNzHfDkXOp8ibtz2BPyW4er9GaANhYK3289Hx2wysI1yS4I46sZm
+4FOi0Z19F6OXNjXeC2yX1hs9GsbG0ponqkJfkhi4Lxuk310FqnD9ME9wBBSo8KY6
+xExdPT9RZKM4e5d+Qnnu4a2bRoCFSmeKuZTXypT+C6Mybh97gKpME/34IsG4jI5w
+ZUvnvkxFpv1h/c/su31BZ267S5kbENHbDD4oaTSfqu+4WH3+eVHugmFWt+nO39YR
+iabFZhdLV4fPUIpU3HHL1AEV7rEe+rPUu/EVGqXuAEX6aLRtqO0=
+=VUP2
 -----END PGP SIGNATURE-----
