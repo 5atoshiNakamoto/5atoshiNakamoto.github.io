@@ -70,7 +70,7 @@ DISCLAIMERS & NOTES
 
 This scheme is not infallible. Although signing this declaration makes it difficult for a third party to produce arbitrary declarations, it does not prevent them from using force—or other means like blackmail or compromise of the signer's laptop(s), for example—to coerce one to produce false declarations.
 
-The bitcoin block hash quoted below (PROOF OF DATE) serves to demonstrate that this canary could not have been created prior to the date and bitcoin block height stated; it shows that a series of canaries were not created in advance.
+The bitcoin block hash quoted below (PROOF OF DATE) serves to demonstrate that this canary could not have been created prior to the date and bitcoin block height stated; it shows that a series of canaries were not created in advance, however by the time of you reading this now, a series of canaries plausibly could have been created in your present past, but after the stated date.
 
 This declaration is merely a best effort and provided without any guarantees, warranty, and is not legally binding in any way to anyone. No signer should ever be held legally responsible for any of the statements made here.
 
@@ -88,17 +88,17 @@ The most recent bitcoin block hash:
 (Block: 879,270)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmeHEYoACgkQ9XrH8ZJg
-JcOrug/9EGXb4gwwOHGLj2Z41/j7XZakypXMBJ3TF5FdGecGcniZaPIqD5TG79l2
-DiZf9uSjl1Eg2MP4ANfSrF68rXGtsgKsnG62IbZBbr+uBcm9XCmRrh3CyloCMhg6
-uOlwDOaLHNfsNRQUUFCTmeCp8qna0NRLC5FUYubFnX+MT0V0PB4jCmUAyunMoJHu
-7wCvGh8xVubpwae+w3GxRiVxwpGERrAo/NQlPyb0/bLQ6iciArw5kfrfXkVrqubV
-5Ewu5jRLbK2/7t3IGVXP6MNdpgP7oCu2V9Gw5Rb00jjfkxqIMmx8pne1FXDG7stJ
-sJJmE9tVfEXAwU/G8U7tI6bS/awoS/qEpAgLwiOG62EpWxR1pMwysYE7jk2nhMnM
-Y2rP5pFm9IZdUycBxKQBauJASEEkAs21QFP1DooBETY0XMvIjaFfLuf11FfbLOlN
-5IELUgK9jlGu2y8LW9SlFQIkdrzFRHnxPIxvGJ9Hgo/ltUSNw0OgSgJc9WaCc17a
-ePyyVYTlPnMYAhCzuCSV4OLZOxPnyGQlQjQnhHkByEHfZAo+VGB8zdwgItJlBpXA
-t/eCQhRY8ZDrbyhKqGPtDOmQ2wMhssVfq5IuVq4bBE76YNy3WAPa8JNPtuQNkubk
-pSWrd2HTu7vprJDGqExYk97beHwaRzsZOdRycKI0MoEm0ge2Rxo=
-=vZVY
+iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmeHKQgACgkQ9XrH8ZJg
+JcNkIQ//bmcRBXN/OfcmTqyeJAe3FJkhIBGGKR5y52kzsDIXtCbaWANFYcYVbw7k
+6QaSN+lwP1m8e1oqIk4iplYjg1+F10Cc1yCTv8ttMW2dFAmHW+HeRSyhDYLbySJL
+YfI6m3vK9eoycM8ZxakIlqrT4wSDfIK1nHoSZJzMvZygqOrZotePwN04CqbMJIDQ
+YaKh3vhzv7Fbqq7pEmEcCH3XOmKC+vvVD4jTc4LhdwQjem8Pr0H4Vt7iDprOPVI3
++amW/SpLZtEfm5OC+y53j2ohhv/vOxjbMLmZiCbieP13QlbURVLNFCTYbhst6Pm+
+wfWARyZlCKI06hrHSpKQQsS8PNgZ3hx9bk3ydtjRF6iCMqadD2XK9WB4P3HtbgPE
+67+8IEsl9zO6f4mmOCDjic6XCOvMdaPYC5OTZJfItVwIpWIhOKeFpY3pL/hfLcng
+mGPaggYoNrpw/lQBoBQCJaADP6ZFwWzno1qz99GHyL5ogXzZ65P1P8hrMsiKakEW
+rA/KW0rselqV99K/oYuAGW1sob4to9+vAQ0T25yV2n29/j1dtuO1jqfNSBmvvlbO
+3xBaypDoY8bnE4zNapANfjdOkrngklA/K/cUS078Pru3ttcl7KxuV6iMfg0b5jjQ
+oCo/5+ZWG070TCN7GZ/Ef0Qi4r/YaLRYyLGkakHFZNgHDzMJlMk=
+=IvlP
 -----END PGP SIGNATURE-----
