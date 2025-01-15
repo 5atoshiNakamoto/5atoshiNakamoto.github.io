@@ -16,8 +16,7 @@ STATEMENTS
 ID: 0x926025C3
 Fingerprint: 51AE 7F50 3F5F 6404 FBEC 93CB F57A C7F1 9260 25C3
 
-(Public Key may be found at https://5atoshiNakamoto.github.io/pgp, forwarding to https://keys.openpgp.org/search?q=5atoshiNakamoto.labbe@simplelogin.co, 
-as well as at https://github.com/5atoshiNakamoto)
+(Public Key may be found at https://5atoshiNakamoto.github.io/public-key, forwarding to https://keys.openpgp.org/search?q=5atoshiNakamoto.labbe@simplelogin.co, as well as at https://github.com/5atoshiNakamoto)
 
  * 5atoshiNakamoto is the administrator of https://5atoshiNakamoto.github.io and the associated Github account, https://github.com/5atoshiNakamoto.
 
@@ -58,8 +57,12 @@ A gag order refers to any legal order enforceable in 5atoshiNakamoto's jurisdict
  * A request or order for technical assistance
  * Any other request, order, demand, or information of any type
 
-**
-The next canary statement is planned to be published within a year, before 14, January, 2026.
+
+****************
+DEADLINE UPDATE
+****************
+
+The next canary statement is planned to be published within 3 months, before 14, April, 2025.
 
 *Special note should be taken if no new canary gets published by that time, or if the list of statements change without plausible explanation.*
 
@@ -74,7 +77,7 @@ The bitcoin block hash quoted below (PROOF OF DATE) serves to demonstrate that t
 
 This declaration is merely a best effort and provided without any guarantees, warranty, and is not legally binding in any way to anyone. No signer should ever be held legally responsible for any of the statements made here.
 
-Failure to update this canary does not mean 5atoshiNakamoto has received a gag order, nor is not updating it or omitting anything an attempt to communicate anything to anyone. This canary serves only to periodically confirm certain facts as long as they are true.
+Failure to update this canary does not mean 5atoshiNakamoto has received a gag order; nor is not updating it, or omitting anything, an attempt to communicate anything to anyone. Frankly, it's also entirely plausible that 5atoshiNakamoto could have become otherwise incapacitated or lazy with his or her systems management of this website, leaving this canary to expire, but let's hope not. Have you asked him or her? This canary serves only to periodically confirm certain facts as long as they are presently true. Doing the best we can.
 
 Compromise of the associated Github account, 5atoshiNakamoto, remains always a remote possibility.
 
@@ -84,21 +87,21 @@ PROOF OF DATE
 **************
 
 The most recent bitcoin block hash:
-000000000000000000018379fd27ba8abdb07f25c5714c69f74e6b40ec5aced5
-(Block: 879,270)
+000000000000000000026bb9994d652f51fdbbbdc66b71a07ff8a56bcef4b82c
+(Block: 879,306)
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmeHKQgACgkQ9XrH8ZJg
-JcNkIQ//bmcRBXN/OfcmTqyeJAe3FJkhIBGGKR5y52kzsDIXtCbaWANFYcYVbw7k
-6QaSN+lwP1m8e1oqIk4iplYjg1+F10Cc1yCTv8ttMW2dFAmHW+HeRSyhDYLbySJL
-YfI6m3vK9eoycM8ZxakIlqrT4wSDfIK1nHoSZJzMvZygqOrZotePwN04CqbMJIDQ
-YaKh3vhzv7Fbqq7pEmEcCH3XOmKC+vvVD4jTc4LhdwQjem8Pr0H4Vt7iDprOPVI3
-+amW/SpLZtEfm5OC+y53j2ohhv/vOxjbMLmZiCbieP13QlbURVLNFCTYbhst6Pm+
-wfWARyZlCKI06hrHSpKQQsS8PNgZ3hx9bk3ydtjRF6iCMqadD2XK9WB4P3HtbgPE
-67+8IEsl9zO6f4mmOCDjic6XCOvMdaPYC5OTZJfItVwIpWIhOKeFpY3pL/hfLcng
-mGPaggYoNrpw/lQBoBQCJaADP6ZFwWzno1qz99GHyL5ogXzZ65P1P8hrMsiKakEW
-rA/KW0rselqV99K/oYuAGW1sob4to9+vAQ0T25yV2n29/j1dtuO1jqfNSBmvvlbO
-3xBaypDoY8bnE4zNapANfjdOkrngklA/K/cUS078Pru3ttcl7KxuV6iMfg0b5jjQ
-oCo/5+ZWG070TCN7GZ/Ef0Qi4r/YaLRYyLGkakHFZNgHDzMJlMk=
-=IvlP
+iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmeHLF8ACgkQ9XrH8ZJg
+JcPoJhAAhLTlmT2t9VlKbZrQQduMlcFK4xFk7b1SyIIXJCmRbUzLzhUqb8G4S1Pu
+rUaG0ejse4FsGJYjqicIPss7PvkVhOWX11WCotZP12UAFroS+u15zoWSJQjExtM8
+q+uV09nh0MoaDMl1ZJpN8/LaHIdFyPtPT+fe6meTeUtpgbA8AneT4OSd63EhmC39
+a5K5ZJiCfty+98DNu01IIkefu8ND9WP9iR2+U4ppgm2h04tRmqoLPF8fRE/Cq1G7
+3jQODzgsGfjEvady95/5eepprFFrDesI6pbeTwetSSde88gbiBHagKcnRWYx5XSW
+7TXlb9KVEIlomIiQSfaOBlZj5hi+iDShaOfCUJRj3otwuo4uo/qaINQHygtmx1dM
+sIeW504CYCRtW9Oh/gvsLVHrGoodWdCE2VXDe15rxMqHuZSwbdIJcWut5iLf3q/X
+q8BmBg7ALIh8R83RfTivMMA/9kvHm60uDExU8KwPpXWHBrFqlPerMhrgJ1GOZ1qY
+OhTHCYDW81ZthgA9j/cOr457TzSf+3wNUpx8FFYh9TNbP7LM1GfehVc+zmZ45zen
+zl3kcNca38XtBigfmZVOGECne1R2NEm8Rk2Z6ZjOZibU33SejPsI7Xy+MXfbb+nY
+lAGLEF3oi/xDZr48XplZREx1WmoLU8RpA2eVMxR1Jy4EzdW0tbY=
+=eldt
 -----END PGP SIGNATURE-----
