@@ -2,14 +2,14 @@
 Hash: SHA256
 
 This is 5atoshiNakamoto's Warrant Canary.
-This file can be accessed at https://5atoshiNakamoto.github.io/canary.txt
+This file can be accessed at https://5atoshiNakamoto.github.io/canary.txt 
 
 
 ***********
 STATEMENTS
 ***********
 
- * The date of issue of this canary is: Tues. 14, January, 2025.
+ * The issue date of this canary is: Wed. 15, January, 2025. (See PROOF OF DATE below.)
 
  * 5atoshiNakamoto's main signing key is used to sign this canary:
 
@@ -62,9 +62,40 @@ A gag order refers to any legal order enforceable in 5atoshiNakamoto's jurisdict
 DEADLINE UPDATE
 ****************
 
-The next canary statement is planned to be published within 3 months, before 14, April, 2025.
+The next canary statement is planned to be published within 3 months, before 15, April, 2025.
 
 *Special note should be taken if no new canary gets published by that time, or if the list of statements change without plausible explanation.*
+
+
+**************
+PROOF OF DATE
+**************
+
+PROOF OF DATE is currently best demonstrated utilizing a combination of two tools:
+
+1) printing the most recent bitcoin block hash demonstrates that this canary could not have been created PRIOR to the date and time of the bitcoin block height stated, and
+
+2) Verifying the hash of a file timestamped on OpenTimestamps.org and included in the bitcoin blockchain demonstrates that this canary could not have been created AFTER the date and time stated.
+
+Thus, a sufficiently narrow window between the two results is the only plausible time for the creation of this canary.
+
+1) The most recent bitcoin block hash:
+0000000000000000000129edfa0395d2b53ba9bb40cf1b0b5d3716352f2747a6
+
+Block: 879472
+
+(You can easily view evidence of this bitcoin block hash at a website like:
+https://mempool.space/block/0000000000000000000129edfa0395d2b53ba9bb40cf1b0b5d3716352f2747a6)
+
+2) Verify the matching hashes of the following files on OpenTimestamps.org and that they are included in a bitcoin block.
+
+* Download the two files at:
+https://5atoshiNakamoto.github.io/canary.txt.ots
+https://5atoshiNakamoto.github.io/canary.txt
+
+Then, at OpenTimestamps.org, first drag the .ots proof file into the STAMP & VERIFY window, followed by the .txt stamped file below it.
+
+The files should display a matching hash and the bitcoin block height and date in which the hash was included.
 
 
 ********************
@@ -73,35 +104,26 @@ DISCLAIMERS & NOTES
 
 This scheme is not infallible. Although signing this declaration makes it difficult for a third party to produce arbitrary declarations, it does not prevent them from using force—or other means like blackmail or compromise of the signer's laptop(s), for example—to coerce one to produce false declarations.
 
-The bitcoin block hash quoted below (PROOF OF DATE) serves to demonstrate that this canary could not have been created prior to the date and bitcoin block height stated; it shows that a series of canaries were not created in advance, however by the time of you reading this now, a series of canaries plausibly could have been created in your present past, but after the stated date.
-
 This declaration is merely a best effort and provided without any guarantees, warranty, and is not legally binding in any way to anyone. No signer should ever be held legally responsible for any of the statements made here.
 
-Failure to update this canary does not mean 5atoshiNakamoto has received a gag order; nor is not updating it, or omitting anything, an attempt to communicate anything to anyone. Frankly, it's also entirely plausible that 5atoshiNakamoto could have become otherwise incapacitated or lazy with his or her systems management of this website, leaving this canary to expire, but let's hope not. Have you asked him or her? This canary serves only to periodically confirm certain facts as long as they are presently true. Doing the best we can.
+Failure to update this canary does not mean 5atoshiNakamoto has received a gag order; nor is not updating it, or omitting anything, an attempt to communicate anything to anyone. Frankly, it's also entirely plausible that 5atoshiNakamoto could have become otherwise incapacitated or lazy with his or her systems management of this website, leaving this canary to expire, but let's hope not. Have you asked him or her? This canary serves only to periodically confirm certain facts as long as they are presently true.
 
 Compromise of the associated Github account, 5atoshiNakamoto, remains always a remote possibility.
 
-
-**************
-PROOF OF DATE
-**************
-
-The most recent bitcoin block hash:
-000000000000000000026bb9994d652f51fdbbbdc66b71a07ff8a56bcef4b82c
-(Block: 879,306)
+Doing the best we can.
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmeHLF8ACgkQ9XrH8ZJg
-JcPoJhAAhLTlmT2t9VlKbZrQQduMlcFK4xFk7b1SyIIXJCmRbUzLzhUqb8G4S1Pu
-rUaG0ejse4FsGJYjqicIPss7PvkVhOWX11WCotZP12UAFroS+u15zoWSJQjExtM8
-q+uV09nh0MoaDMl1ZJpN8/LaHIdFyPtPT+fe6meTeUtpgbA8AneT4OSd63EhmC39
-a5K5ZJiCfty+98DNu01IIkefu8ND9WP9iR2+U4ppgm2h04tRmqoLPF8fRE/Cq1G7
-3jQODzgsGfjEvady95/5eepprFFrDesI6pbeTwetSSde88gbiBHagKcnRWYx5XSW
-7TXlb9KVEIlomIiQSfaOBlZj5hi+iDShaOfCUJRj3otwuo4uo/qaINQHygtmx1dM
-sIeW504CYCRtW9Oh/gvsLVHrGoodWdCE2VXDe15rxMqHuZSwbdIJcWut5iLf3q/X
-q8BmBg7ALIh8R83RfTivMMA/9kvHm60uDExU8KwPpXWHBrFqlPerMhrgJ1GOZ1qY
-OhTHCYDW81ZthgA9j/cOr457TzSf+3wNUpx8FFYh9TNbP7LM1GfehVc+zmZ45zen
-zl3kcNca38XtBigfmZVOGECne1R2NEm8Rk2Z6ZjOZibU33SejPsI7Xy+MXfbb+nY
-lAGLEF3oi/xDZr48XplZREx1WmoLU8RpA2eVMxR1Jy4EzdW0tbY=
-=eldt
+iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmeIvPoACgkQ9XrH8ZJg
+JcMPwRAAiqrBqrivG4eg+MY0eqwKD7/zmGhvjXjM0XVmO8nvILgWrzJcRgZUcv8m
+Z468oMid2Hnps53fN/W57N8ExsjKhN/+6z2Bd17VXKjmwJEstalma7BX5wB0Jp6T
+pXdDl1gFtisK07hO0EPbhSXdAGqSCjUknDimQw+m9kJ1bIvv8u4DToZRYsKmfADI
+afnmFjQjRFVyFgrBSQQ42hHqywe4H5YKlFUOlNOn7hM1XA8k+jNYQ56nv3RZQNAW
+qW4Xi4Mj/IrvfDpiNesB2zuUOzPHQWe9a8vbi5iQzlepthue9U1KldJpzcxUZm7y
+k++/ZJJhzuVejWlcoO/tp9t8yt9OkuWhr0nqQtLQxBSK+5/pIKGR8fY4HE0et1i9
+LfhDs6vx3+a4vTKUhK3RQQBm3sGG8aHWQl3tMl0HaDr9aVu/TuycsrhhT+PJyG5E
+s/i9/qXSBVXjvxXRosClGtyNwOXATliN3YVm8z65f2DcJlu92F+slx8eFL71q2zl
+Po8T3U/dgN1IqFRMCcggrSsMDzxolZYoeTDnsZD5UcVBSeg49cfEdwFem1E+NmRP
+H6LYcoCE03IsslHkgoV/h1KvLnYR3QqlnprO386ZDpPpWtPQWBijFTNoM+C3PRIM
+6l5++pZnlr21t/DiK+JF3BTfokv/P22xV9qkSjg+IWk38YQb+VM=
+=MNfS
 -----END PGP SIGNATURE-----
