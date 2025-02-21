@@ -1,16 +1,12 @@
 # Warrant Canaries
 
-## Current
-
-@5atoshiNakamoto's most current warrant canary can be found at [https://5atoshiNakamoto.github.io/canary](https://5atoshiNakamoto.github.io/canary)
-
-****************
-**DEADLINE UPDATE**
-****************
-
 The next canary statement is planned to be published within 3 months, before 21, April, 2025.
 
 *Special note should be taken if no new canary gets published by that time, or if the list of statements change without plausible explanation.*
+
+## Current
+
+@5atoshiNakamoto's most current warrant canary can be found at [https://5atoshiNakamoto.github.io/canary](https://5atoshiNakamoto.github.io/canary)
 
 ## Former
 
