@@ -1,13 +1,11 @@
 # Former Warrant Canaries
 
-## 2026
-
 DD-MM-YYYY.txt
+
+## 2026
 
 
 ## 2025
-
-DD-MM-YYYY.txt
 
 | .txt | .txt.ots |
 | --- | --- |
