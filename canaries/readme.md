@@ -2,7 +2,7 @@
 
 ## Current
 
-The most current warrant canary can be found at [https://5atoshiNakamoto.github.io/canary](https://5atoshiNakamoto.github.io/canary)
+@5atoshiNakamoto's most current warrant canary can be found at [https://5atoshiNakamoto.github.io/canary](https://5atoshiNakamoto.github.io/canary)
 
 ## Former
 
