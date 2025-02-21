@@ -1,6 +1,6 @@
 # Warrant Canaries
 
-The next canary statement is planned to be published within 3 months, before 21, April, 2025.
+The next canary statement is planned to be signed and published within 3 months, before 21, April, 2025.
 
 *Special note should be taken if no new canary gets published by that time, or if the list of statements change without plausible explanation.*
 
