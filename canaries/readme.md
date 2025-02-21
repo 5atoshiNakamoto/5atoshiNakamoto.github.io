@@ -2,7 +2,7 @@
 
 ## Current
 
-The most current warrant canary can be found at https://5atoshiNakamoto.github.io/canary
+The most current warrant canary can be found at [https://5atoshiNakamoto.github.io/canary](https://5atoshiNakamoto.github.io/canary)
 
 ## Former
 
@@ -25,49 +25,49 @@ The most current warrant canary can be found at https://5atoshiNakamoto.github.i
 | --- | --- | --- |
 | | |
 
-## 2022
+### 2022
 
 | DD-MM-YYYY | .txt | .txt.ots |
 | --- | --- | --- |
 | | |
 
-## 2021
+### 2021
 
 | DD-MM-YYYY | .txt | .txt.ots |
 | --- | --- | --- |
 | | |
 
-## 2020
+### 2020
 
 | DD-MM-YYYY | .txt | .txt.ots |
 | --- | --- | --- |
 | | |
 
-## 2019
+### 2019
 
 | DD-MM-YYYY | .txt | .txt.ots |
 | --- | --- | --- |
 | | |
 
-## 2018
+### 2018
 
 | DD-MM-YYYY | .txt | .txt.ots |
 | --- | --- | --- |
 | | |
 
-## 2017
+### 2017
 
 | DD-MM-YYYY | .txt | .txt.ots |
 | --- | --- | --- |
 | | |
 
-## 2016
+### 2016
 
 | DD-MM-YYYY | .txt | .txt.ots |
 | --- | --- | --- |
 | | |
 
-## 2015
+### 2015
 
 | DD-MM-YYYY | .txt | .txt.ots |
 | --- | --- | --- |
