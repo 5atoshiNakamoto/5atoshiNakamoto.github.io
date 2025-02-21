@@ -1,19 +1,25 @@
-# Former Warrant Canaries
+# Warrant Canaries
 
-## 2025
+## Current
+
+The most current warrant canary can be found at https://5atoshiNakamoto.github.io/canary
+
+## Former
+
+### 2025
 
 | DD-MM-YYYY | .txt | .txt.ots |
 | --- | --- | --- |
 | 20-04-2025 | [20-04-2025.txt](./20-04-2025.txt) | [20-04-2025.txt.ots](./20-04-2025.txt.ots) |
 | 21-01-2025 | [21-01-2025.txt](./21-01-2025.txt) | [21-01-2025.txt.ots](../canary.txt.ots) |
 
-## 2024
+### 2024
 
 | DD-MM-YYYY | .txt | .txt.ots |
 | --- | --- | --- |
 | | |
 
-## 2023
+### 2023
 
 | DD-MM-YYYY | .txt | .txt.ots |
 | --- | --- | --- |
