@@ -2,6 +2,10 @@
 
 ## 2026
 
+| DD-MM-YYYY | .txt | .txt.ots |
+| --- | --- | --- |
+| | |
+
 ## 2025
 
 | DD-MM-YYYY | .txt | .txt.ots |
@@ -25,19 +29,52 @@
 
 | DD-MM-YYYY | .txt | .txt.ots |
 | --- | --- | --- |
+| | |
 
 ## 2021
 
-#### 2020
+| DD-MM-YYYY | .txt | .txt.ots |
+| --- | --- | --- |
+| | |
 
-### 2019
+## 2020
 
-#### 2018
+| DD-MM-YYYY | .txt | .txt.ots |
+| --- | --- | --- |
+| | |
+
+## 2019
+
+| DD-MM-YYYY | .txt | .txt.ots |
+| --- | --- | --- |
+| | |
+
+## 2018
+
+| DD-MM-YYYY | .txt | .txt.ots |
+| --- | --- | --- |
+| | |
 
 ## 2017
 
+| DD-MM-YYYY | .txt | .txt.ots |
+| --- | --- | --- |
+| | |
+
 ## 2016
+
+| DD-MM-YYYY | .txt | .txt.ots |
+| --- | --- | --- |
+| | |
 
 ## 2015
 
+| DD-MM-YYYY | .txt | .txt.ots |
+| --- | --- | --- |
+| | |
+
 ## 2014
+
+| DD-MM-YYYY | .txt | .txt.ots |
+| --- | --- | --- |
+| | |
