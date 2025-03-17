@@ -4,8 +4,10 @@ author: 5atoshiNakamoto
 email: 5atoshiNakamoto+GH@simplelogin.com
 description: 5atoshiNakamoto's Warrant Canary Archive
 twitter_username: 5atoshiNakamoto
-youtube_username: BantuBitcoin
+github_username: 5atoshiNakamoto
+nostr_username: 5atoshiNakamoto
+youtube_username: @BantuBitcoin
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: just-the-docs/just-the-docs
