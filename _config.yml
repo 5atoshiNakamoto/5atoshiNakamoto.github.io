@@ -8,4 +8,4 @@ youtube_username: @BantuBitcoin
 
 # Build settings
 markdown: kramdown
-remote_theme: just-the-docs/just-the-docs
+theme: minima
