@@ -1,0 +1,9 @@
+title: '5atoshiNakamoto.github.io'
+tagline: '@5atoshiNakamoto tagline'
+
+menu:
+  - {name: 'About', url: '/about'}
+  - {name: 'Events', url: '/events'}
+  - {name: 'Blog', url: '/blog'}
+  - {name: 'Meetup', url: 'https://www.meetup.com/BitDevsNYC/', external: true}
+  - {name: 'Cities', url: '/cities'}
