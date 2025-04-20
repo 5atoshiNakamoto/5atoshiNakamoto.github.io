@@ -14,8 +14,8 @@ The next canary statement is planned to be signed and published within 3 months,
 
 | DD-MM-YYYY | .txt | .txt.ots |
 | --- | --- | --- |
-| 20-04-2025 | [20-04-2025.txt](./20-04-2025.txt) | [20-04-2025.txt.ots](./20-04-2025.txt.ots) |
-| 21-01-2025 | [21-01-2025.txt](./21-01-2025.txt) | [21-01-2025.txt.ots](../canary.txt.ots) |
+| 20-04-2025 | [20-04-2025.txt](../canary.txt) | [20-04-2025.txt.ots](../canary.txt.ots) |
+| 21-01-2025 | [21-01-2025.txt](./21-01-2025.txt) | [21-01-2025.txt.ots](./21-01-2025.txt.ots) |
 
 ### 2024
 
