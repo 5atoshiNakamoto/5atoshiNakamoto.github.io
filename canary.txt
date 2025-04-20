@@ -1,15 +1,13 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+This is 5atoshiNakamoto's most recent Warrant Canary.
+This file version can be accessed at https://5atoshiNakamoto.github.io/canary.txt
 
-This is 5atoshiNakamoto's Warrant Canary.
-This file can be accessed at https://5atoshiNakamoto.github.io/canary.txt 
-
+An archive of former canaries can be found at https://5atoshiNakamoto.github.io/canaries
 
 ***********
 STATEMENTS
 ***********
 
- * The issue date of this canary is: Tues. 21, January, 2025. (See PROOF OF DATE below.)
+ * The issue date of this canary is today: Sun. 20, April, 2025. (See DEADLINE UPDATE and PROOF OF DATE below.)
 
  * 5atoshiNakamoto's main signing key is used to sign this canary:
 
@@ -17,7 +15,7 @@ ID: 0x926025C3
 Fingerprint: 51AE 7F50 3F5F 6404 FBEC 93CB F57A C7F1 9260 25C3
 Comment: 5atoshiNakamoto.labbe@simplelogin.co
 
-(Public Key may be found at https://5atoshiNakamoto.github.io/public-key, forwarding to https://keys.openpgp.org/search?q=5atoshiNakamoto.labbe@simplelogin.co, as well as at https://github.com/5atoshiNakamoto)
+(Public Key may be found at https://5atoshiNakamoto.github.io/public-key, forwarding to https://keys.openpgp.org/search?q=5atoshiNakamoto.labbe@simplelogin.co, as well as at https://github.com/5atoshiNakamoto, and even at https://keybase.io/5atoshiNakamoto)
 
  * 5atoshiNakamoto is the account administrator of https://5atoshiNakamoto.github.io and the associated Github account, https://github.com/5atoshiNakamoto.
 
@@ -63,9 +61,11 @@ A gag order refers to any legal order enforceable in 5atoshiNakamoto's jurisdict
 DEADLINE UPDATE
 ****************
 
-The next canary statement is planned to be published within 3 months, before 21, April, 2025.
+The next canary statement is planned to be published within 3 months, before 20, July, 2025.
 
 *Special note should be taken if no new canary gets published by that time, or if the list of statements change without plausible explanation.*
+
+Once again, an archive of former canaries can be found at https://5atoshiNakamoto.github.io/canaries
 
 
 **************
@@ -74,21 +74,21 @@ PROOF OF DATE
 
 PROOF OF DATE is currently best demonstrated utilizing a combination of two(2) tools:
 
-(1) Printing a very recent Bitcoin block hash demonstrates that this canary could not have been created PRIOR to the date and time of the Bitcoin block height stated (3 blocks back [~30 minutes] to protect against likelihood of block reorganization), and
+(1) Printing a very recent Bitcoin block hash demonstrates that this canary could not have been created PRIOR to the date and time of the Bitcoin block height stated (3 blocks back [~30 minutes] to protect against the (un)likelihood of block reorganization), and
 
 (2) Verifying the hash of this canary.txt file timestamped on https://OpenTimestamps.org and included in the Bitcoin blockchain demonstrates that this canary could not have been created AFTER the date and time stated.
 
 Thus, a narrow window between these two results is the only plausible date and time for the creation and timestamped signature of this canary.
 
 (1) A very recent Bitcoin block hash:
-000000000000000000019058c532af98b1f2a56ce36cce1b130d625e146367a4
+000000000000000000017ff517d14639709f164097af4d1ee6b45362ff97e45f
 
-Block: 880305
+Block: 893229
 
 (You can easily view evidence of this Bitcoin block hash at a website like:
-https://mempool.space/block/000000000000000000019058c532af98b1f2a56ce36cce1b130d625e146367a4)
+https://mempool.space/block/000000000000000000017ff517d14639709f164097af4d1ee6b45362ff97e45f)
 
-(2) Next, verify the matching hashes of the following files on https://OpenTimestamps.org and that it is included in a Bitcoin block sufficiently close in date and time to Block 880305 from Step 1.
+(2) Next, verify the matching hashes of the following files on https://OpenTimestamps.org and that it is included in a Bitcoin block sufficiently close in date and time to Block 893229 from Step 1.
 
 Download the two files at:
 * https://5atoshiNakamoto.github.io/canary.txt.ots
@@ -96,9 +96,9 @@ Download the two files at:
 
 Then at https://OpenTimestamps.org, first drag (or otherwise, 'upload') the .txt.ots proof file into the STAMP & VERIFY box, followed by the .txt stamped file into the box below it.
 
-The files should both display a matching hash and the Bitcoin block height and time in which this hash was included.
+If all checks out, the files will both display a matching hash and the Bitcoin block height and time in which this hash was included.
 
-Compare this Bitcoin block height and time to Block 880305. Each block represents ~10 minutes.
+Compare this Bitcoin block height and time to Block 893229. Each difference in block height represents the passage of ~10 minutes.
 
 
 ********************
@@ -116,19 +116,3 @@ DISCLAIMERS & NOTES
 (5) Compromise of the associated Github account, 5atoshiNakamoto, or PGP private key remains always a remote possibility.
 
 (6) Doing the best we can.
------BEGIN PGP SIGNATURE-----
-
-iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmeQikUACgkQ9XrH8ZJg
-JcOIzA/+LMkywDOUoYebKZAkGsfT4scyaJchEQAO6FaZ9xAfPullY5EE+TBeYFwF
-M2CyGjMIlKQouHZ+yb5nqllBEo9y0FbYtV6ZEVnK3NNCKpmodV7oApyqmNE0cKU6
-zaBXrGPodVs68dDO5gBDtkAX1zqYxj1TzzSDLKe2h1dD0GHqu/dMM4G5jBHbcs8L
-1R7oWer19f29f0HvwmkBATQOvDtMa7Nl+IUf0TZ4ys93mtCfm5IQ66b9D2Dlf1Ek
-guzySGXEF0LeFa0xZfvbt3j2Xzh0sfusfi4jpR+bP8DXxgtr1C7vRN87ObCt42J6
-YAXVlQQNpvB8Ca24Gy/q/11FsMe9lGhG/LZpn6i6BG+1FPcSuBkKbHrpwHF61BTO
-17DYZVdnr3zzKNpnMRBMfDwiIZEbTvI8ZdISSlMKSEHytyh5D7Y1RF1H3CNblCgt
-WdcKa4ck7+IvTTgQmj0yWfDpr0XFL72UE7+2BxIF5/Gg7uCah9yG+YgI0NQpH6br
-JTILHg/uICf/qr9PF5t96/GIXwNrvZj75/UqdLqaxXo/XJdzaSb+EV/uWcCQzH3C
-NLcXAqw1hVlGcuEl8oos70iDSiRq98riaz1jwPTbKKgaDJNHDAeZIKMCfKZNFShR
-JabNYDReqwC75T7jDey5DX4kbKyws3NpYSh6uV7+Q7AFbuDR1jE=
-=w9Qq
------END PGP SIGNATURE-----
