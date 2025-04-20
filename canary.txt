@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 This is 5atoshiNakamoto's most recent Warrant Canary.
 This file version can be accessed at https://5atoshiNakamoto.github.io/canary.txt
 
@@ -116,3 +119,19 @@ DISCLAIMERS & NOTES
 (5) Compromise of the associated Github account, 5atoshiNakamoto, or PGP private key remains always a remote possibility.
 
 (6) Doing the best we can.
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmgEtHIACgkQ9XrH8ZJg
+JcMKqQ/+OsKAkHKm+3RZbSTs0iy230Cpxxo4kpbAeFenadW9qmeFtgrDz1CSgZmy
+mhEw4UftlvDWuerMMQkwhPZwT2DvXW4coQasCG1+JSTJTSqcQkr04FXNc+Ichcyy
+wFMaR4JUfdtRhus7noJVcbVwbxfEynNtr+tWipONpeyGF2odJwLBkim0gBWeQl+1
+7pIByIrV98xpdYgctLL8myNIHOuWhF6uuTj02YH/yodv2snwyNDzT+sL5dnG4mkC
+YhUJRktS552Uuq31QwRvZTENzx/0bv3oHTu1Wczvk+K9gc20xTB2AOa5c1szDp0a
+vl2os8uwdbAslmSVgODMYeHO36zZvxWWItkVEz6ZOKMAVr3xkGTHZvvy/X290EBc
+ZIxJ6oB7zE1Mil+UMkZ2lVJRoATP7syaWb/Re2RUH3HmKPl4UdBq+qAQbB5rFNRa
+Xp2799DmD0ZgSrPSot0ovp5N/JgUwEpOtFqU+2C8d0ubxrC64nDBrhvDkgQuOjWm
+mWmN6CLTdVbqWUpl+CmPanUkfSAJYg6cOnFxLyBO58S0KeEU7RvV83IwQQ1jfkfq
+Z61M8EHuXNIhdvSuY0s5b/WwBDEqeUjMBy2pEe+LLnhanUblWynPiwP9dYNZEOUj
+gxMo00sexibWlcKGRts819HJm6osIEI/zkjvQRnuaP+GQkZZ5gI=
+=7yHh
+-----END PGP SIGNATURE-----
