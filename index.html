@@ -82,6 +82,29 @@ details[open] summary {
   border-bottom: 1px solid #aaa;
   margin-bottom: 0.5em;
 }
+           
+          /* detailsCLEAR container, the next 4 divs */
+  detailsCLEAR {
+  border: 0px solid #aaa;
+  border-radius: 0px;
+  padding: 0.5em 0.5em 0;
+}
+
+summaryCLEAR {
+  font-weight: bold;
+  margin: -0.5em -0.5em 0;
+  padding: 0.5em;
+}
+
+detailsCLEAR[open] {
+  padding: 0.5em;
+}
+
+detailsCLEAR[open] summary {
+  border-bottom: 1px solid #aaa;
+  margin-bottom: 0.5em;
+}
+          
             table {
             width: 100%;
             border-collapse: collapse;
@@ -488,12 +511,12 @@ A Bitcoin-only education podcast 🎙️ from rural Zambia 🇿🇲, in <a href=
      <li><a href="https://satoshi.nakamotoinstitute.org" target="_blank">The Complete Satoshi</a></li>
     </details>
 <br>
-       <details open>
-         <summary><strong>Guides</strong></summary>
+       <detailsCLEAR open>
+         <summaryCLEAR><strong>Guides</strong></summary>
       <li><a href="https://odell.xyz/#guides" target="_blank">O'Dell's Resources</a></li>
       <li><a href="https://bitcoiner.guide" target="_blank">Bitcoiner.Guide</a></li>
       <li><a href="https://www.lopp.net/bitcoin-information.html" target="_blank">Lopp.net</a></li>
-      </details>
+      </detailsCLEAR>
 <br>  
        <details open>
       <summary>Courses</summary>
