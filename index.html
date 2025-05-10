@@ -16,6 +16,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/favicon/favicon-16x16.png" />
   <link rel="manifest" href="./assets/images/favicon/site.webmanifest" />
+  
 <style>
 * {
   box-sizing: border-box;
@@ -30,16 +31,7 @@
   flex: 33.33%;
   padding: 5px;
 }
-</style>
-</head>
-
-<body class="stackedit">
-  <div class="stackedit__left">  
-    <div class="stackedit__toc">
-
-        <style>
-
-          /* circle image container, for the next 2 divs */
+   /* circle image container, for the next 2 divs */
     .circle-container {
             width: 130px; /* Adjust the size of the circle container as needed */
             height: 130px;
@@ -59,7 +51,15 @@
             object-position: center;
             display: block;
         }
-
+          /* testing canary */
+  .canary-container {
+            overflow: hidden;
+            margin: auto;
+            position: fixed;
+            bottom: 0px;
+            left: 20px;
+            z-index: 11; /* Ensure the circle is above other content */
+        }
           
    /* details container, the next 4 divs */
   details {
@@ -98,8 +98,13 @@ details[open] summary {
             background-color: white; /* Optional: to hide header under the fixed header */
             z-index: 1; /* Ensures header stays above other content */
         }
-    </style>
   
+</style>
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">  
+    <div class="stackedit__toc">  
 <ul>
   <strong><a href="#top">⌚︎ @5atoshiNakamoto</a></strong>
     <ul>
@@ -149,14 +154,15 @@ details[open] summary {
   -->
 
 </ul> <!-- closes whole menu list -->
-      
+      </div> <!-- closes TOC -->
+    
 <a href="#contact" class="circle-link">
     <div class="circle-container">
         <center><img src="./assets/images/5atoshiNakamoto-profile-photo.jpg" alt="a classic, yet orange Casio F-91W, a true frugal Bitcoiner's watch"></center>
     </div>
 </a>
       
- </div> <!-- closes TOC -->
+ 
   </div> <!-- closes left column -->
 
   <div class="stackedit__right">
