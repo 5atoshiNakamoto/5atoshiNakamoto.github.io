@@ -39,7 +39,7 @@
             overflow: hidden;
             margin: auto;
             position: fixed;
-            bottom: 30px;
+            bottom: 50px; /* previously 20 */
             left: 20px;
             z-index: 10; /* Ensure the circle is above other content */
         }
@@ -57,8 +57,8 @@
             margin: auto;
             position: fixed;
             bottom: 0px;
-            left: 20px;
-            z-index: 11; /* Ensure the circle is above other content */
+            left: 0px;
+            z-index: 1; /* Ensure the canary is below? other content */
         }
           
    /* details container, the next 4 divs */
@@ -158,14 +158,16 @@ details[open] summary {
      <a href="#canary">🐦 Canary</a>
 </div>
     
-<a href="#contact" class="circle-link">
+
+      
+ </ul> <!-- closes whole menu list -->
+      </div> <!-- closes TOC -->
+
+    <a href="#contact" class="circle-link">
     <div class="circle-container">
         <center><img src="./assets/images/5atoshiNakamoto-profile-photo.jpg" alt="a classic, yet orange Casio F-91W, a true frugal Bitcoiner's watch"></center>
     </div>
 </a>
-      
- </ul> <!-- closes whole menu list -->
-      </div> <!-- closes TOC -->
     
   </div> <!-- closes left column -->
 
