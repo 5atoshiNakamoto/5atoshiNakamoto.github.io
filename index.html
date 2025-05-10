@@ -23,13 +23,13 @@
 .row {
   display: flex;
 }
-
 /* Create three equal columns that sits next to each other */
 .column {
   flex: 33.33%;
   padding: 5px;
 }
-   /* circle image container, for the next 2 divs */
+  
+/* circle image container, for the next 2 divs */
     .circle-container {
             width: 130px; /* Adjust the size of the circle container as needed */
             height: 130px;
@@ -49,15 +49,16 @@
             object-position: center;
             display: block;
         }
-          /* testing canary */
+  
+  /* testing canary container for menu bottom */
   .canary-container {
             overflow: hidden;
             margin: auto;
-             
-            position: fixed;
+            width: auto; 
+            position: relative; /* formerly fixed */
             bottom: 20px;
             left: 0px;
-            z-index: 1; /* Ensure the canary is below? other content */
+            z-index: 999; /* Ensure the canary is above other content */
         }
           
    /* details container, the next 4 divs */
@@ -82,10 +83,10 @@ details[open] summary {
   margin-bottom: 0.5em;
 }
 
-            table {
+  table {
             width: 100%;
             border-collapse: collapse;
-        }
+      }
         th, td {
             border: 1px solid black;
             padding: 8px;
@@ -160,7 +161,7 @@ body {
 <div class="canary-container">
   <ul>
     <li>
-      <a href="#canary" class="canary-link">🐦 Canary</a>
+      <a href="#canary" class="canary-link">🐦 Warrant Canary</a>
     </li>
   </ul>
 </div>
