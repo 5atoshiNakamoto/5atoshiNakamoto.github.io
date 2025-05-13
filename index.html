@@ -17,51 +17,47 @@
   
 <style>
 /* responsive image gallery begins */  
-  div.gallery {
+  * {
+  box-sizing: border-box;
+}
+
+.gallery-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding: 6px;
+}
+
+.gallery {
+  flex: 1 1 calc(25% - 12px); /* Default: 4 items per row with spacing */
   border: 1px solid #ccc;
 }
 
-div.gallery:hover {
+.gallery:hover {
   border: 1px solid #777;
 }
 
-div.gallery img {
+.gallery img {
   width: 100%;
   height: auto;
 }
 
-div.desc {
+.desc {
   padding: 15px;
   text-align: center;
 }
 
-* {
-  box-sizing: border-box;
-}
-
-.responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24.99999%;
-}
-
-@media only screen and (max-width: 700px) {
-  .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
+/* Responsive Breakpoints */
+@media (max-width: 700px) {
+  .gallery {
+    flex: 1 1 calc(50% - 12px); /* 2 items per row */
   }
 }
 
-@media only screen and (max-width: 500px) {
-  .responsive {
-    width: 100%;
+@media (max-width: 500px) {
+  .gallery {
+    flex: 1 1 100%; /* Full width */
   }
-}
-
-.clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
 }
 /* responsive image gallery ends */ 
 
@@ -345,7 +341,9 @@ body {
     
   -->
 
-      <div class="responsive">
+
+        
+      <div class="gallery-container">
   <div class="gallery">
     <a href="https://5atoshinakamoto.substack.com/p/why-avoid-altcoins" target="_blank"><img src="./assets/images/articles/WAA.jpg" alt="Article: Why avoid altcoins?" style="width:100%"></a>
     <div class="desc">₿itcoin is the only blockchain with any real value.</div>
@@ -353,22 +351,40 @@ body {
 </div>
 
 
-<div class="responsive">
+<div class="gallery-container">
+  <div class="gallery">
+     <a href="https://5atoshinakamoto.substack.com/p/bitcoin-in-zambia" target="_blank"><img src="./assets/images/articles/BIZ.jpg" alt="Article: Bitcoin in Zambia" style="width:100%"></a>
+    <div class="desc">The problem isn't the nominal value of $1; the problem is the money itself.</div>
+  </div>
+</div>
+<br>
+2nd<br>
+<br>
+      <div class="gallery-container">
+  <div class="gallery">
+    <a href="https://5atoshinakamoto.substack.com/p/why-avoid-altcoins" target="_blank"><img src="./assets/images/articles/WAA.jpg" alt="Article: Why avoid altcoins?" style="width:100%"></a>
+    <div class="desc">₿itcoin is the only blockchain with any real value.</div>
+  </div>
+
   <div class="gallery">
      <a href="https://5atoshinakamoto.substack.com/p/bitcoin-in-zambia" target="_blank"><img src="./assets/images/articles/BIZ.jpg" alt="Article: Bitcoin in Zambia" style="width:100%"></a>
     <div class="desc">The problem isn't the nominal value of $1; the problem is the money itself.</div>
   </div>
 </div>
 
+      <!-- 
+
+      width="600" height="400"
+
+      
 <div class="clearfix"></div>
 
 <div style="padding:6px;">
   <p>This example use media queries to re-arrange the images on different screen sizes: for screens larger than 700px wide, it will show four images side by side, for screens smaller than 700px, it will show two images side by side. For screens smaller than 500px, the images will stack vertically (100%).</p>
 </div>
 
+      -->
      <!-- 
-
-      width="600" height="400"
       
         <div class="row"> 
          <div class="column">
