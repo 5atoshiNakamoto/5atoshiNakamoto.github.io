@@ -23,7 +23,7 @@ An archive of the last, as well as this 'cross-over', and all former canaries sp
 STATEMENTS
 ***********
 
- * The issue date of this canary is today: Wed. 16, Jul. 2025. (See DEADLINE UPDATE and PROOF OF DATE below.)
+ * The issue date of this canary is today: Sun. 20, Jul. 2025. (See DEADLINE UPDATE and PROOF OF DATE below.)
 
  * 5atoshiNakamoto's main signing key is used to sign this canary:
 
@@ -102,7 +102,7 @@ All the above holds true for Bantu Bitcoin as well.
 DEADLINE UPDATE
 ****************
 
-The next canary statement is planned to be published within 6** months, before 16, Jan. 2026.
+The next canary statement is planned to be published within 6** months, before 20, Jan. 2026.
 
 *Special note should be taken if no new canary gets published by that time, or if the list of statements change without plausible explanation.*
 
@@ -110,7 +110,7 @@ The next canary statement is planned to be published within 6** months, before 1
 
 Once again, an archive of former canaries can be found at https://5atoshiNakamoto.github.io/canaries.
 
-- - - ----
+- - - - - - ----
 BANTU BITCOIN
 
 The last Bantu Bitcoin-specific canary can be found at https://5atoshiNakamoto.github.io/Bantu-Bitcoin/canaries, as well as this one – a 'cross-over' canary. All future Bantu Bitcoin canaries will be published under the main signing key of 5atoshiNakamoto, as signed here.
@@ -129,14 +129,14 @@ PROOF OF DATE is currently best demonstrated utilizing a combination of two(2) t
 Thus, a narrow window between these two results is the only plausible date and time for the creation and timestamped signature of this canary.
 
 (1) A very recent Bitcoin block hash:
-00000000000000000001cac5296e15494175a98155c90eeaf29ad172db18b565
+00000000000000000001ffd4125d87f10b4f644b60d5c2ad19325de72ce6e314
 
-Block: 906241
+Block: 906244
 
 (You can easily view evidence of this Bitcoin block hash at a website like:
-https://mempool.space/block/00000000000000000001cac5296e15494175a98155c90eeaf29ad172db18b565)
+https://mempool.space/block/00000000000000000001ffd4125d87f10b4f644b60d5c2ad19325de72ce6e314)
 
-(2) Next, verify the matching hashes of the following files on https://OpenTimestamps.org and that it is included in a Bitcoin block sufficiently close in date and time to Block 906241 from Step 1.
+(2) Next, verify the matching hashes of the following files on https://OpenTimestamps.org and that it is included in a Bitcoin block sufficiently close in date and time to Block 906244 from Step 1.
 
 Download the two files at:
 * https://5atoshiNakamoto.github.io/canary.txt.ots
@@ -146,7 +146,7 @@ Then at https://OpenTimestamps.org, first drag (or otherwise, 'upload') the .txt
 
 If all checks out, the files will both display a matching hash and the Bitcoin block height and time in which this hash was included.
 
-Compare this Bitcoin block height and time to Block 906241. Each difference in block height represents the passage of ~10 minutes.
+Compare this Bitcoin block height and time to Block 906244. Each difference in block height represents the passage of ~10 minutes.
 
 
 ********************
@@ -181,49 +181,49 @@ ORDER OF OPERATIONS - DECRYPTION
 Capiche?
 - - -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmh7sokACgkQ9XrH8ZJg
-JcNcgA/9EnAXdafC0eOKJ6FYSijf99M5q7SqySZPUcreWel0Rz9WRBddsgYo6K1b
-t7+Cyiy8cjbsyQyj3/e2P2HBE32r9G9M3giu3kiIpdxEyDOP/fFcV4owssBCu0AL
-TeTk2g7RZsPB/My5mzlNJ+KcsTAdrkz6qUjRrg1JM1MIaYmnc27c3EtSPQZMqhN9
-ewRaJaasXhvtv9bHc70q0l9TTT77kkrQ/mxQErvowc/EUth7r2VI5XtRxmeHrTIf
-QZ0lP+OnU3OKR9ywmoG6BMJApkUsbFbdknK9hiHCkAY3ALp5Q3ZGOoGQG5HCcHS5
-pCSIz44t8pa0dEbt0W205gkMWjMyLHSzd5UExjnPcqedCHF//+cPWARjiL6l9efp
-I3UdY6FGNndw6E6KbOerxyndSAIYY2FSiLbeM0jeIpPdFvrtn93zg/BmJaI6Fce8
-Ksl4mkMDpsipvTMWrOVC++nb6Hzu5yVDDwNAFYiGLkQVBiHU/BLU6/BrWN+pIt0+
-spceL5qAmz7w0lJmhJctyxLUXM3tU0UCMTD0TxQ9geweobClgqrx9dSujOsQoe1u
-djsxPyhMgaM4gc3qGZBeY5XOcEIVX7CXgkfiCQyoLTUXDgIkcKaJEvZkc+jp3wRe
-o0zzVCcNQ5sgVfhAN3ki/+r5kiI9Cc97JJ4EfcQClr7gQIzXz6I=
-=pxHF
+iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmh7ulsACgkQ9XrH8ZJg
+JcMyahAAtQzCEgmql0aWL4AeZBqIZykidV47YDjKlqRRBr0GTI4TWOds145lwM/C
+gshH5xyGneE8C3DliyutPT8VJsZLXimk0jtN6bT/eOenFbmVK2nd4aYLKtKaUXrz
+O6qJeDYIZrfkd5Kg7HLjs2yxE/bpr+jwbk1+fNjUFanepRL5ofp1XHT//eLqeQHA
+WA35XFtHf46gfdhQe54rMKOlWI4tlg9J/Vro8MfEgGzxgu/IxagCBTVMm7BbI4PS
+WeDZijp3rqsT150TXXubGrywwG0+K3Z/1VW+C+dhUnLO2qN+wzpUw2vJdKt3nK4t
+z4lx81DG/tCIjpemwSDJer6SNETHhqjz4cqHlBAhszxwMb7lM38R02nVWHo1x7eA
+6gncig5y+aReUBQbzfderMv0CJ7eyO+l6eLe77goXOSRQC4mHWoMYZn1lkoT2FlK
+d9xm+cUZdXll3N9VYrshFQziaUnbEh+Ht6GVWgZpwlZhTpptbojeGtpHwyGEC2Gb
+NXXa3/vauctMDFJtkhsKv8WMVBaGxNXdZno3jpIECWhouR3Fi05LO1KS0oKx9y9+
+dnd0Byyl0K64PmXM1KWh52pTmJMm4X18mw7l9q7RFXBbbQOfmcjiqycqPii2YcYr
+78+MHZXObJNCLAOEGiHu8dxjYCSwIU3oPRVbWDNRBbBSPMxYNng=
+=hP2k
 - - -----END PGP SIGNATURE-----
 - -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEGPIqkkiM0b3iQRSQ1RRDt5DT3a8FAmh7sqEACgkQ1RRDt5DT
-3a/mKg//anTkFojUtNb5STMwCZ6jeBKxpkE1wOqpuv0mNcScZt7BYFkZvDSbZkLI
-JjpxAtGXJwODdQKSzotzVPtYEm4CrsUTx1VQaU3eqH2goN+Z2z9r6KJW2LFoo2Wl
-lupa/HdOFjFYue5OSgCDujUzUUOHaXa61qm1gJfOB2UGr1jNhEbQOvWo3YOXnr9X
-Ju4yPMdO8vMEra5A6DhLBLpxSs1kEB/9VHiJRkdRCClYBlPGH2HIqqOuPvTWsclP
-QN1inWgAbeRz99egeDJpczCVWpPTc4WovW3mxx2Jnj1IyUab9dhaEJ5xlYSV+I7l
-pfFgMchK3hsXyH/TgGfrF6XtKv+GHQv+c22OiSyuNAWVlvanf1D4zAxqk0bLwRkW
-j7k+bOUkTJV+zHPH5OCUNzTA2JHdQSa3DL8Sy0gcdNgiQnmuNip3bi2X8AbPpDd+
-nUeAxLIDJO+4pRVEQeJ/zSeLSLlKQrgn7qN/i9pwXanMsej56XJgVF7JBpeF8HtJ
-hXDk5MPVOUV719SfCPtM5GclzwgMLKEqnDDUkXdBzX5a6d6gSU15DDv0mmeCH2Wy
-vbLhOXpFrnxxGHww4zoAjVE7Nf00YExmhJwKgtPzuGfN8b2e+umgH+sNYvLOOCdX
-VJzgHDPZUgyU2qrxcUMKWoW/UBwIUn1ssun4BiuX4eCYBJKdVYM=
-=666r
+iQIzBAEBCAAdFiEEGPIqkkiM0b3iQRSQ1RRDt5DT3a8FAmh7unsACgkQ1RRDt5DT
+3a+1VQ/8CUxUdQs+w0XKI2ts3mqM/SwWzdiSN1ZvmGPvp9ThRvXwhicm/AgZ3EOH
+84MYLTikFW4ojfns8290M3aiSFd+WVP/fxTarlhsFASqgE2JKo+HAhmajb4k44vt
+vDP/qenCevVq5PLKQXuRbyovuKG2L37Gt/yuz7xmqW1QqA6Mzzy1fSZCruCLyO95
+/1g5TwKrYV/Ax7/UShz6DVz4lHGvoqh3p/vYOAKbvcDgXzJ6yfYOLYE2VlWy+6YH
+XsJdnvQkVmDLJLfJ24jy2XaXC6dLwHjCpesDAOBST4QfF94DOa/4AWf8KxV/4V1C
+XlD/3E4Psz504/Z6QnsgyaOqrVkCXA9WwFZ6FsGh/fUwKcLSt4ck5WQ9qxifVRsm
+i77l7DO0PkWmuvCp7+7VAFbYcvPJEpzMQnH92gWbh1EhDcX1VJDDFzTY14jsHI5w
+RfQG2uzxvbZ9DlezjyNAcdBMiANI1EksiATG63k/6Rtw+jY8j/J/JLs9ZJEqM1Su
+2nRz5M+TivMEdbC2ueyYBlFX4HMrs38UJZEsKCnL7IFekqk36X7SXVgN/2rrhIcR
+8yJLLEiLmdCXvLkOU75haE5HZVWPFr3759gIiqz6cNNHgomA6nULPCEnQdhSzvAs
+EArdgw/xchGqNyyOxuep0kwtvmmnssgYHN9HF+3aNN8b2eA+Bls=
+=pfN1
 - -----END PGP SIGNATURE-----
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmh7ssIACgkQ9XrH8ZJg
-JcMkOw//bO1pyPnqIPh4BZ3VftSe1HQ/SgQ5aF24zf1FkQQTOHNivZCZ8PQIlW8X
-P9idcCI7iFVzOYPJ+Y9e7uKkBxIaAsKkjmtgvRAvHN2sZESrgEPxfVhvz4H3MCoh
-q3/eRybPX2fA5DPf+hcsOtN7P2Mojx5A2az4Sup2EGVQ6JMSEN4p9P47QjtSOqhk
-t9zjzAM6qyN6MRKL7/NwNh63csIyUV2L+xtDuss0ulWdxcpe8fWmx6ibljKNvB8F
-GaIHyGreQDLVbs0WC+6pfCJvIzhYeynsnbeIPzwXMcuB0qyAjwvtnsqv3JtDMqed
-c3cKKPInUPzlNDWzdqvPnJitztFenMAVu+z3nxrVa5m+rujN9VcIXN7JeUmbCJpb
-wwUkwwmknTaBCsbDbD1DDlh+TryaKZUfEZuUNH+7RBYafv8TxMiccYwsZbDZdJaO
-vd549yTMQgkvKaBR2l34m3mkwNVQS9NfLjUfxHkd+06Du0D19RUr/yikQkGGyfL2
-cQItZAfog3iIsNomKghpWsoZCkU6rxxkurVsDrDiOyUdCtor/UnyyLuoMOWgtx8Y
-+MA9Acz3tpwHIppj7z7w5RxyWhhbn627c7nm/lZ6IMaeMz2KO0TUO9Pu0h72MdUi
-UdFetor7XEjyeaJbIUssn7c1PdB2FYDitxhli4thhiwozz8AI0w=
-=P5RY
+iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmh7upcACgkQ9XrH8ZJg
+JcPXwxAA2OE4XaL7US09UahL5PaKMszJqe3Wa/+xvIvcSZjGHqrw0Ee+luKAbxhc
+AcN/r0BUgSLtkEGCI6YDMy5YUulL6hhMzSInRq+bR8FlRwEH3yLrS2TYMRqco35w
+1jI6N6dIvBwEKT+fVMJZYoxyVfXfcrvQqRNNDqT1GCRiPcn3zizjHjB3CzN/tRxt
+Rpz+pjtI+vQ0uTX14rZau4d1e21WL7WAY0w+HUzQe39KqnKvwmta12hvAZL7DPom
+jGd8J791Rs5IeMoi1cpVHMhL0hvGixYidEqEo0ecbqZSlj5bB3F1JkwRh5tVJYdw
+Kjg6Dq/FzNEb+uDGNqHi5Dy53CLrsCQO9GNQGI4ti1iXbFR2+P6ErIlXUwwlglm7
+iwHdN0i9fVsHw2ZjL0OyeFP1xY7MmdEwMospX55ege/goU3grPBwTw83miKbG0ff
+9c75zrMw/+RQ/LHGlzPoS5IxpPIrs6x/dZlu/fxJ7XGqdDiGFzKvzyB0NykFahj4
+s02AMulrhmkjvTSemptY5lgWJWh4XkmHUn0P8BGbZ6yCYQumQZZjeH6fGIQhJlG/
+ywLbCXqGHvH6bUZz0/cLAUnnO5SY6v9s1gloWR9H2y8lrhcpqH7hPzoY69l65m8X
+brAVFFEgxINUNmR+EppnO0+S6G3W8zPcOVhLics5WYAllPq5kVc=
+=PZmc
 -----END PGP SIGNATURE-----
