@@ -156,6 +156,21 @@ body {
   padding-bottom: 1500px; /* Adjust as needed, padding under canary at page bottom to boost heading to top of page 
 }
   */
+
+  /* container for very long lines like NOSTR npub */
+  .code-container {
+    width: 100%;
+    overflow-x: auto;
+    white-space: pre-wrap;
+}
+
+.code-container pre {
+    margin: 0;
+    padding: 10px;
+    background-color: #f4f4f4;
+    border-radius: 4px;
+}
+
   
 </style>
 </head>
@@ -566,7 +581,9 @@ body {
   -->
       
   <li>🎥 YouTube: <code><a href="https://youtube.com/@BantuBitcoin" target="_blank">@BantuBitcoin</a></code></li>
-  <li>🦩 Nostr: <code><a href="https://primal.net/p/npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90" target="_blank">npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90</a></code></li>
+  <div class="code-container">
+    <pre><li>🦩 Nostr: <code><a href="https://primal.net/p/npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90" target="_blank">npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90</a></code></li></pre>
+</div>
   <li>✉️ Email: <code><a href="mailto:BantuBitcoin@protonmail.com" target="_blank">BantuBitcoin@protonmail.com</a></code></li>
   <li>🔏 PGP Public Key: <code><a href="https://keys.openpgp.org/search?q=BantuBitcoin@protonmail.com" target="_blank">18F2 2A92 488C D1BD E241 1490 D514 43B7 90D3 DDAF</a></code></li>
       </ul>
