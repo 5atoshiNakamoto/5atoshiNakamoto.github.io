@@ -162,8 +162,6 @@ body {
     width: 100%;
     overflow-x: auto;
     white-space: pre-wrap;
-    display: flex;
-    justify-content: center;
 }
 
 .code-container pre {
@@ -173,11 +171,18 @@ body {
     border-radius: 4px;
 }
 
-.code-container .NoBG {
+.code-container .NoBGNoWrap {
     margin: 0;
     padding: 0;
     border-radius: 4px;
     white-space: nowrap;
+    background-color: transparent; /* Explicitly set background to transparent */
+}
+
+  .code-container .NoBGButWrap {
+    margin: 0;
+    padding: 0;
+    border-radius: 4px;
     background-color: transparent; /* Explicitly set background to transparent */
 }
 
@@ -188,6 +193,9 @@ body {
     overflow-x: auto;
     /* display: inline-block;  /* Ensures it stays on one line */
     text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
 }
 
   
@@ -338,7 +346,7 @@ body {
 <p>Happy to chat about ₿itcoin adoption in rural Zambia, developments seen since 2014, we progressive left in ₿itcoin, a ₿itcoin Giving Pledge, stewardship and public service, podcasting, Bantu Bitcoin, library audiobooks at 4x, learning GitHub and finding ways to contribute, cybersecurity and pseudonyms, nomadic travel/vanlife, frugality and FIRE/FILE, the children/childfree question, my conversion from ardent dog-person to cat lover with cute aggression, or possibly anything if you sign and encrypt with PGP.</p>
       
       <div class="code-container">
-    <pre class="NoBG">
+    <pre class="NoBGNoWrap">
 <ul>
 <li>🦩 Nostr: <code><a href="https://primal.net/p/npub1td9p6g87lrjzuvqu46jtwlezswng2pj4t87e07d32sgcsf0qky8sx7nl9u" target="_blank">npub1td9p6g87lrjzuvqu46jtwlezswng2pj4t87e07d32sgcsf0qky8sx7nl9u</code></a></li>
 <li>🦋 Bluesky: <code><a href="https://bsky.app/profile/5atoshinakamoto.substack.com" target="_blank">@5atoshinakamoto.substack.com</code></a></li>
@@ -521,7 +529,7 @@ body {
       -->
       
 <h2 id="subscribe"><br>🗞️ Subscribe</h2>
-<div class="code-container"><pre class="NoBG"><left><iframe src="https://5atoshinakamoto.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></left></pre></div>
+<div class="code-container"><pre class="NoBGNoWrap"><left><iframe src="https://5atoshinakamoto.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></left></pre></div>
          <p><a href="https://5atoshiNakamoto.substack.com" target="_blank">https://5atoshiNakamoto.substack.com</a></p>
 
 
@@ -569,7 +577,7 @@ body {
 -->
       <h2 id="bantu-bitcoin-listen"><br>🎧 Listen</h2>
 
-<div class="code-container"><pre class="NoBG"><left><iframe src="https://bantubitcoin.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></left></pre></div>
+<div class="code-container"><pre class="NoBGNoWrap"><left><iframe src="https://bantubitcoin.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe></left></pre></div>
         <p><a href="https://bantubitcoin.substack.com" target="_blank">https://BantuBitcoin.substack.com</a></p>
 <!--
 <h2 id="bantu-bitcoin-bemba"><br>[<a href="https://bantubitcoin.substack.com/s/bemba" target="_blank">Bemba</a>] Feed</h2>
@@ -601,7 +609,7 @@ body {
       <li>🎙️ Podcast Website: <code><a href="https://5atoshiNakamoto.github.io/Bantu-Bitcoin" target="_blank">https://5atoshiNakamoto.github.io/Bantu-Bitcoin</a></code></li>
   -->
       
-<div class="code-container"><pre class="NoBG"><ul><li>🎥 YouTube: <code><a href="https://youtube.com/@BantuBitcoin" target="_blank">@BantuBitcoin</a></code></li>
+<div class="code-container"><pre class="NoBGNoWrap"><ul><li>🎥 YouTube: <code><a href="https://youtube.com/@BantuBitcoin" target="_blank">@BantuBitcoin</a></code></li>
 <li>🦩 Nostr: <code><a href="https://primal.net/p/npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90" target="_blank">npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90</a></code></li>
 <li>✉️ Email: <code><a href="mailto:BantuBitcoin@protonmail.com" target="_blank">BantuBitcoin@protonmail.com</a></code></li>
 <li>🔏 PGP Public Key: <code><a href="https://keys.openpgp.org/search?q=BantuBitcoin@protonmail.com" target="_blank">18F2 2A92 488C D1BD E241 1490 D514 43B7 90D3 DDAF</a></code></li></ul></pre></div>
@@ -651,7 +659,7 @@ body {
   <code>perl -e "print qq(<em><strong>your text to hash here, case matters</strong></em>)" | shasum -a256</code><br>
   <br>
   <em>Examples:</em><br>
-<div class="code-container"><pre class="NoBG"><ul><li>The hash of the #<code>21</code>, as written by the command, <code>perl -e "print qq(21)" | shasum -a256</code> is <code>6f4b6612125fb3a0daecd2799dfd6c9c299424fd920f9b308110a2c1fbd8f443</code></li>
+<div class="code-container"><pre class="NoBGButWrap"><ul><li>The hash of the #<code>21</code>, as written by the command, <code>perl -e "print qq(21)" | shasum -a256</code> is <code>6f4b6612125fb3a0daecd2799dfd6c9c299424fd920f9b308110a2c1fbd8f443</code></li>
 <li>The hash of the word <code>Bitcoin</code> is <code>b4056df6691f8dc72e56302ddad345d65fead3ead9299609a826e2344eb63aa4</code><br> while <code>bitcoin</code> is <code>6b88c087247aa2f07ee1c5956b8e1a9f4c7f892a70e324f1bb3d161e05ca107b</code></li></ul></pre></div>
 <br>
   Capiche?</p>
