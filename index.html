@@ -16,8 +16,37 @@
   <link rel="manifest" href="./assets/images/favicon/site.webmanifest" />
   
 <style>
+  ul {
+  padding-left: 0;        /* Remove default left indent */
+  margin: 0;              /* Remove default vertical margin */
+  list-style: none;       /* Remove bullet points */
+}
+
+li {
+  margin-bottom: 0;       /* No extra space between items */
+  padding: 0;             /* No extra padding */
+  line-height: 1.2;       /* Compact line spacing, adjust as preferred */
+}
+
+/* If you want a little space between menu items, use a small value like this: */
+/*
+li {
+  margin-bottom: 2px;
+}
+*/
+
+/* Optional: Restore bullets for other lists if needed */
+.menu,
+.nav {
+  list-style: none;
+}
+
+ul:not(.menu):not(.nav) {
+  list-style: disc inside;
+}
+  
 /* responsive image gallery begins */  
-  * {
+* {
   box-sizing: border-box;
 }
 
@@ -206,51 +235,55 @@ body {
   <div class="stackedit__left">  
     <div class="stackedit__toc">  
 <ul>
-  <strong><a href="#top">⌚︎ 5atoshiNakamoto | 2014</a></strong>
+  <li><strong><a href="#top">⌚︎ 5atoshiNakamoto | 2014</a></strong></li>
     <ul>
-    <a href="#contact">📇 Contact</a>
-      <a href="#speaking">🗣️ Speaking</a>
-      <a href="#podcasts">🎙️ Podcasts</a>
-      <a href="#articles">📰 Articles</a>
-      <a href="#subscribe">🗞️ Subscribe</a>
+    <li><a href="#contact">📇 Contact</a></li>
+      <li><a href="#speaking">🗣️ Speaking</a></li>
+      <li><a href="#podcasts">🎙️ Podcasts</a></li>
+      <li><a href="#articles">📰 Articles</a></li>
+      <li><a href="#subscribe">🗞️ Subscribe</a></li>
     </ul>
-  <strong><a href="#Bantu-Bitcoin">🌍 Bantu ₿itcoin Podcast</a></strong>
+  <li>
+    <strong><a href="#Bantu-Bitcoin">🌍 Bantu ₿itcoin Podcast</a></strong>
+  </li>
     <ul>
-    <!-- <a href="#bantu-bitcoin-bemba">🗣 Bemba</a> -->
-    <!-- <a href="#bantu-bitcoin-english">🔤 English</a> -->
-    <a href="#bantu-bitcoin-listen">🎧 Listen</a>
-      <a href="#bantu-bitcoin-contact">📇 Contact</a>
-    <a href="#bantu-bitcoin-donate">⚡️ Donate</a>
+    <!-- <li><a href="#bantu-bitcoin-bemba">🗣 Bemba</a></li> -->
+    <!-- <li><a href="#bantu-bitcoin-english">🔤 English</a></li> -->
+    <li><a href="#bantu-bitcoin-listen">🎧 Listen</a></li>
+      <li><a href="#bantu-bitcoin-contact">📇 Contact</a></li>
+    <li><a href="#bantu-bitcoin-donate">⚡️ Donate</a></li>
     </ul>
-  <strong><a href="#Bitcoin-in-Zambia">🇿🇲 ₿itcoin in Zambia</a></strong>
+  <li><strong><a href="#Bitcoin-in-Zambia">🇿🇲 ₿itcoin in Zambia</a></strong></li>
     <ul>
-    <!-- <a href="#meetup">🅜 Monthly Meetup</a> -->
-    <!-- <a href="#workshops">🏫 Workshops</a> -->
-    <!--  <a href="#twitter-spaces">🔊 Twitter Spaces</a> -->
-<!--    <a href="#links">🔗 Links</a> -->
+    <!-- <li><a href="#meetup">🅜 Monthly Meetup</a></li> -->
+    <!-- <li><a href="#workshops">🏫 Workshops</a></li> -->
+    <!--  <li><a href="#twitter-spaces">🔊 Twitter Spaces</a></li> -->
+<!--    <li><a href="#links">🔗 Links</a></li> -->
     </ul>
-  <strong><a href="#learn">📓 Learn ₿TC</a></strong>
+<li><strong><a href="#learn">📓 Learn ₿TC</a></strong></li>
     <ul>
-    <!-- <a href="#basics">📄 Basics</a> -->
-    <a href="#recommendations">⚙️ Recommendations</a>
-    <a href="#resources">🔗 Resources</a>
+    <!-- <li><a href="#basics">📄 Basics</a></li> -->
+    <li><a href="#recommendations">⚙️ Recommendations</a></li>
+    <li><a href="#resources">🔗 Resources</a></li>
     </ul>
    
   <!-- 
-  <strong><a href="#shop">🛒 Shop</a></strong>
+  <li><strong><a href="#shop">🛒 Shop</a></strong></li>
     <ul>
-      <a href="#BTCMSDF91W">⌚︎ BTCMSDF91W</a>
+      <li><a href="#BTCMSDF91W">⌚︎ BTCMSDF91W</a></li>
     </ul>
     -->
-    <!-- <ul><a href="#2099999997690000">≐ 2099999997690000</a></ul> -->
-  <strong><a href="#Bitcoin-Giving-Pledge">🙏🏼 Bitcoin Giving Pledge</a></strong>
-  <strong><a href="#free-audiobooks">📚 Free Audiobooks (1000+)</a></strong>
+    <!-- <ul>
+  <li><a href="#2099999997690000">≐ 2099999997690000</a></li>
+</ul> -->
+  <li><strong><a href="#Bitcoin-Giving-Pledge">🙏🏼 Bitcoin Giving Pledge</a></strong></li>
+  <li><strong><a href="#free-audiobooks">📚 Free Audiobooks (1000+)</a></strong></li>
 
   <!-- testing details in menu
   <details open>
     <summary>summary</summary>
-    <a href="#workshops">🏫 Workshops</a>
-    <strong><a href="#learn">📓 Learn ₿TC</a></strong>
+    <li><a href="#workshops">🏫 Workshops</a></li>
+    <li><strong><a href="#learn">📓 Learn ₿TC</a></strong></li>
 </details>
   -->
 
@@ -258,9 +291,7 @@ body {
   <!-- Canary link at the bottom -->
 <div class="canary-container">
   <ul>
-  
-      <a href="#canary" class="canary-link">🐦 Warrant Canary</a>
-  
+      <li><a href="#canary" class="canary-link">🐦 Warrant Canary</a></li>
   </ul>
 </div>
 
@@ -322,7 +353,7 @@ body {
         <summary>
       <b>🧑🏻‍💻 Some <a href="https://github.com/5atoshiNakamoto" target="_blank">GitHub</a> Contributions</b></summary>  
         <ul>
-        <strong>Bitcoin</strong>
+        <li><strong>Bitcoin</strong></li>
         <ul>
         <li><a href="https://github.com/bitcoin/bips" target="_blank">Bitcoin</a></li>
     <li><a href="https://github.com/spesmilo/electrum-web" target="_blank">Electrum</a></li>
@@ -340,7 +371,7 @@ body {
   </ul>
           </ul>
   <ul>
-        <strong>Other</strong>
+        <li><strong>Other</strong></li>
         <ul>
   <li><a href="https://github.com/bitwarden/contributing-docs" target="_blank">Bitwarden</a></li>
   <li><a href="https://github.com/keepassxreboot/keepassxc" target="_blank">KeePassXC</a></li>
@@ -630,10 +661,15 @@ body {
       <li>🎙️ Podcast Website: <code><a href="https://5atoshiNakamoto.github.io/Bantu-Bitcoin" target="_blank">https://5atoshiNakamoto.github.io/Bantu-Bitcoin</a></code></li>
   -->
       
-<div class="code-container"><pre class="NoBGNoWrap"><ul><li>🎥 YouTube: <code><a href="https://youtube.com/@BantuBitcoin" target="_blank">@BantuBitcoin</a></code></li>
+<div class="code-container"><pre class="NoBGNoWrap">
+  <ul>
+    <li>🎥 YouTube: <code><a href="https://youtube.com/@BantuBitcoin" target="_blank">@BantuBitcoin</a></code></li>
 <li>🦩 Nostr: <a href="https://primal.net/p/npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90" target="_blank"><code>npub1phtnmz6nu0gef7e4hk9p9789ju4jjpgr9ytac5rewyx9tw5ldzzsfzzl90</code></a> or search <code>Bitcoin@8333.mobi</code></li>
 <li>✉️ Email: <code><a href="mailto:BantuBitcoin@protonmail.com" target="_blank">BantuBitcoin@protonmail.com</a></code></li>
-<li>🔏 PGP Public Key: <code><a href="https://keys.openpgp.org/search?q=BantuBitcoin@protonmail.com" target="_blank">18F2 2A92 488C D1BD E241 1490 D514 43B7 90D3 DDAF</a></code></li></ul></pre></div>
+<li>🔏 PGP Public Key: <code><a href="https://keys.openpgp.org/search?q=BantuBitcoin@protonmail.com" target="_blank">18F2 2A92 488C D1BD E241 1490 D514 43B7 90D3 DDAF</a></code></li>
+  </ul>
+</pre>
+</div>
         
 <!--
   <br>
@@ -644,6 +680,11 @@ body {
   <strong>Donations directly help orange-pill rural Zambians.</strong><br>
   Check out <a href="https://www.youtube.com/@BantuBitcoin/playlists" target="_blank">our YouTube playlists</a> for videos from grateful Sats recipients.<br>
   <br>
+        ⚡ Lightning: <code><a href="https://coinos.io/BantuBitcoin" target="_blank">BantuBitcoin@coinos.io</a></code>
+
+       <ul>
+  <li>⚡ Lightning: <code><a href="https://coinos.io/BantuBitcoin" target="_blank">BantuBitcoin@coinos.io</a></code></li>
+      </ul>
       <ul>
   ⚡ Lightning: <code><a href="https://coinos.io/BantuBitcoin" target="_blank">BantuBitcoin@coinos.io</a></code>
       </ul>
@@ -706,7 +747,9 @@ body {
       <!--
      
        <h3 id="ArticlesByOthers"><br>📰 Others' Articles</h3>
-          <li><a href="https://www.onceinaspecies.com/p/why-did-satoshi-create-bitcoin" target="_blank">🧔🏻 "Why Did Satoshi Create Bitcoin?" - Jesse Myers</a></li>
+      <ul>    
+      <li><a href="https://www.onceinaspecies.com/p/why-did-satoshi-create-bitcoin" target="_blank">🧔🏻 "Why Did Satoshi Create Bitcoin?" - Jesse Myers</a></li>
+    </ul>
       (Much more to this list coming soon)
 
          <h3 id="IGStories">Social Media Stories to Share | Vertical</h3>
