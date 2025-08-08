@@ -1064,6 +1064,27 @@ The message below can be copied and pasted into this <a href="https://keybase.io
       });
     }
   });
+
+  
+  if ('FontFace' in window) {
+  Promise.all([
+    new FontFace('Lato', `url(https://stackedit.io/static/fonts/lato-normal.27bd77b.woff2)`, { 
+      style: 'normal', 
+      weight: '400' 
+    }).load(),
+    new FontFace('Lato', `url(https://stackedit.io/static/fonts/lato-normal-italic.f28f2d6.woff2)`, { 
+      style: 'italic', 
+      weight: '400' 
+    }).load()
+  ]).then(fonts => {
+    fonts.forEach(font => document.fonts.add(font));
+    document.body.classList.add('fonts-loaded');
+  }).catch(error => {
+    console.error('Font loading failed:', error);
+    document.body.classList.add('fonts-loaded');
+  });
+}
+
 </script>
 <div style="height: 600px;"></div>
 </body>
