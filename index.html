@@ -1044,13 +1044,13 @@ while the hash of <code>bitcoin</code> is <div class="code-container"><pre class
   <br>
   <center><code>(click the dropdown heading here to browse)</code></center><br>
   
-<details><summary>📚 Last Updated: Mon 18, Mar. 2024</summary>
+<details><summary>📚 Last Updated: Sun. 7, Dec. 2025</summary>
    <div style="overflow-x: auto;"> <!-- Wrapper div for horizontal scrolling -->
      <table id="audiobook-table">
         <thead>
             <tr>
               <!-- only for original  <th>#</th> -->
-                <th>Title, Author, Year</th>
+                <th>Title, Author, Year, Avg. Rating</th>
         <!-- only for original      <th>Author</th> -->
         <!-- only for original      <th>Year</th> -->
         <!-- only for original   <th>Notes</th> -->
@@ -1125,7 +1125,7 @@ The message below can be copied and pasted into this <a href="https://keybase.io
     }
 
     // Fetch and process CSV
-    fetch('./assets/audiobooks/audiobooks2.csv')
+    fetch('./assets/audiobooks/audiobooks-2025-12-07.csv')
         .then(response => response.text())
         .then(data => {
             const rows = data.split('\n').filter(row => row.trim() !== ''); // Remove empty rows
