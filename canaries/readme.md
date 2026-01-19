@@ -1,6 +1,6 @@
 # Warrant Canaries
 
-The next canary statement is planned to be signed and published within 6 months, on or before 20, Jan. 2026.
+The next canary statement is planned to be signed and published within 6 months, on or before 19, Jul. 2026.
 
 *Special note should be taken if no new canary gets published by that time, or if the list of statements change without plausible explanation.*
 
@@ -14,6 +14,12 @@ The next canary statement is planned to be signed and published within 6 months,
 
 
 ## Former
+
+### 2026
+
+| YYYY-MM-DD | .txt | .txt.ots |
+| --- | --- | --- |
+| 2026-01-19 | [2026-01-19.txt](./2026-01-19.txt) | [2026-01-19.txt.ots](./2026-01-19.txt.ots) |
 
 ### 2025
 
