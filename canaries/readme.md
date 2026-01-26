@@ -13,13 +13,16 @@ The next canary statement is planned to be signed and published within 6 months,
 
 
 
-## Former
 
-### 2026
+## Archive
+
+#### 2026
 
 | YYYY-MM-DD | .txt | .txt.ots |
 | --- | --- | --- |
 | 2026-01-19 | [2026-01-19.txt](./2026-01-19.txt) | [2026-01-19.txt.ots](./2026-01-19.txt.ots) |
+
+## Former
 
 ### 2025
 
