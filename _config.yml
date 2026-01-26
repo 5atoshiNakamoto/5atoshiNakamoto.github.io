@@ -1,8 +1,11 @@
 # basic options
-title: 5atoshiNakamoto
-author: 5atoshiNakamoto
+title: 5atoshiNakamoto | ₿ 2014
+author: 5atoshiNakamoto | ₿ 2014
 email: 5atoshiNakamoto+Github@simplelogin.com
 description: 5atoshiNakamoto's Warrant Canary Archive
+NOSTR: BitcoinGivingPledge.github.io
+PGP: 51AE 7F50 3F5F 6404 FBEC 93CB F57A C7F1 9260 25C3
+
 
 # Build settings
 markdown: kramdown
