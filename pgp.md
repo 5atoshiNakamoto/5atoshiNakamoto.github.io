@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "PGP"
-permalink: /pgp.html
+permalink: /pgp.md
 ---
 
 <details>
