@@ -1,9 +1,8 @@
 # basic options
 title: 5atoshiNakamoto | ₿ 2014
-author: PGP: F57A C7F1 9260 25C3
+PGP: F57A C7F1 9260 25C3
 email: 5atoshiNakamoto+Github@simplelogin.com
 description: Warrant Canary Archive
-social: [github: https://github.com/5atoshiNakamoto]
 
 # Build settings
 markdown: kramdown
