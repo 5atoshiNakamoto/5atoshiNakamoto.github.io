@@ -1,4 +1,8 @@
-# Warrant Canaries
+Each of the .txt files below can be copied and pasted into this [https://keybase.io/verify](Keybase Verify) tool to easily check the validity of the signature against 5atoshiNakamoto's PGP key. 
+
+Instructions for validating each canary's PROOF OF DATE and respective hash (timestamped on [https://OpenTimestamps.org](OpenTimestamps.org) and included in the Bitcoin blockchain) are described in the Proof of Date section of each canary. 
+
+# Upcoming
 
 The next canary statement is planned to be signed and published within 6 months, on or before 19, Jul. 2026.
 
