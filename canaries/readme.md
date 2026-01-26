@@ -1,4 +1,4 @@
-<h1>Warrant Canaries</h1>
+# Warrant Canaries
 
 Each of the .txt files below can be copied and pasted into this [Keybase Verify](https://keybase.io/verify) tool to easily check the validity of the signature against 5atoshiNakamoto's PGP key. 
 
