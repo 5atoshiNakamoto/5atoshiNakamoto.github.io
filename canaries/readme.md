@@ -2,7 +2,7 @@
 
 Each of the .txt files below can be copied and pasted into this [Keybase Verify](https://keybase.io/verify) tool to easily check the validity of the signature against 5atoshiNakamoto's PGP key. 
 
-Instructions for validating each canary's PROOF OF DATE and respective hash (timestamped on [OpenTimestamps.org](https://OpenTimestamps.org) and included in the Bitcoin blockchain) are described in the Proof of Date section of each canary. 
+Instructions for validating each canary's PROOF OF DATE and respective hash (timestamped on [OpenTimestamps.org](https://OpenTimestamps.org) and included in the Bitcoin blockchain) are detailed in the Proof of Date section of each canary. 
 
 ## Current
 
@@ -10,13 +10,9 @@ Instructions for validating each canary's PROOF OF DATE and respective hash (tim
 
 ## Upcoming
 
-The next canary statement is planned to be signed and published within 6 months, on or before 19, Jul. 2026.
+The next canary statement is planned to be signed and published within 6 months, **on or before 19, July 2026**.
 
 *Special note should be taken if no new canary gets published by that time, or if the list of statements change without plausible explanation.*
-
-
-***
-
 
 ## Archive
 
