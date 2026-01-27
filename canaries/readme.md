@@ -2,7 +2,7 @@
 
 Each of the .txt files below can be copied and pasted into this <a href="https://keybase.io/verify" target="_blank">Keybase Verify</a> tool to easily check the validity of the signature against [5atoshiNakamoto's PGP key](/pgp.html). 
 
-Instructions for validating each canary's PROOF OF DATE and respective hash (timestamped on <a href="https://OpenTimestamps.org" target="_blank">OpenTimestamps.org</a> and included in the Bitcoin blockchain) are detailed in the Proof of Date section of each canary. 
+Instructions for validating each canary's Proof of Date and respective hash (timestamped on <a href="https://OpenTimestamps.org" target="_blank">OpenTimestamps.org</a> and included in the Bitcoin blockchain) are detailed in the PROOF OF DATE section of each canary. 
 
 ## Current
 
