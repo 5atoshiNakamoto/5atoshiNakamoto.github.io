@@ -28,7 +28,7 @@ The next canary statement is planned to be signed and published within 6 months,
 | --- |
 | 2026-01-19: 8d2ad3b961e6d89b08cc823d660990963b6bb8fef80cb3c88c0db442e0aecbf6 |
 
-[^](#Archive)
+[^2](#Archive)
 
 ### 2025
 
@@ -44,7 +44,7 @@ The next canary statement is planned to be signed and published within 6 months,
 | 2025-04-20: 5bc27afdcb73ec48b4989ed6be8184a05db9402de83b5ab4937307ffbd82135a |
 | 2025-01-21: 7b6feb629072ae5ea4c5593056425d2c13260e5c2a890d1ebec97778a8b51008 |
 
-[^](#Archive)
+[^](/#Archive)
 
 ### 2024
 
@@ -56,7 +56,7 @@ The next canary statement is planned to be signed and published within 6 months,
 | --- |
 | |
 
-[^](#Archive)
+[^](./#Archive)
 
 ### 2023
 
