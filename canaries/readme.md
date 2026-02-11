@@ -68,7 +68,7 @@ The next canary statement is planned to be signed and published within 6 months,
 | --- |
 | |
 
-[^](#Archive)
+[^](https://5atoshinakamoto.github.io/canaries/#Archive)
 
 ### 2022
 
@@ -80,7 +80,7 @@ The next canary statement is planned to be signed and published within 6 months,
 | --- |
 | |
 
-[^](#Archive)
+[^](https://5atoshinakamoto.github.io/canaries/#Archive)
 
 ### 2021
 
@@ -92,7 +92,7 @@ The next canary statement is planned to be signed and published within 6 months,
 | --- |
 | |
 
-[^](#Archive)
+[^](https://5atoshinakamoto.github.io/canaries/#Archive)
 
 ### 2020
 
@@ -104,7 +104,7 @@ The next canary statement is planned to be signed and published within 6 months,
 | --- |
 | |
 
-[^](#Archive)
+[^](#top)
 
 ### 2019
 
@@ -116,7 +116,7 @@ The next canary statement is planned to be signed and published within 6 months,
 | --- |
 | |
 
-[^](#Archive)
+[^]()
 
 ### 2018
 
