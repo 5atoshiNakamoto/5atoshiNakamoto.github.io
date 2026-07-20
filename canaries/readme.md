@@ -10,7 +10,7 @@ Instructions for validating each canary's Proof of Date and respective hash (tim
 
 ## Upcoming
 
-The next canary statement is planned to be signed and published within 6 months, **on or before <code>19, July 2026</code>**.
+The next canary statement is planned to be signed and published within 6 months, **on or before <code>20, Jan. 2027</code>**.
 
 *Special note should be taken if no new canary gets published by that time, or if the list of statements change without plausible explanation.*
 
