@@ -1,0 +1,165 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+This is 5atoshiNakamoto's most recent Warrant Canary.
+
+This file version can be accessed at https://5atoshiNakamoto.github.io/canary.txt
+
+An archive of former canaries can be found at https://5atoshiNakamoto.github.io/canaries
+
+BANTU BITCOIN
+**************
+
+As per a previous "cross-over" canary, Bantu Bitcoin will not be signing this nor future canaries.
+
+An archive of the final and all former canaries specific to Bantu Bitcoin can be found at https://5atoshiNakamoto.github.io/Bantu-Bitcoin/canaries 
+
+All that is signed herein applies for Bantu Bitcoin as well.
+
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+               STATEMENTS
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+
+ * The issue date of this canary is today: Mon. 20, July 2026. (See DEADLINE UPDATE and PROOF OF DATE below.)
+
+ * 5atoshiNakamoto's main signing key is used to sign this canary:
+
+ID: 0x926025C3
+Fingerprint: 51AE 7F50 3F5F 6404 FBEC 93CB F57A C7F1 9260 25C3
+Comment: 5atoshiNakamoto+pgp@simplelogin.com
+Comment: 5atoshiNakamoto.labbe@simplelogin.co 
+
+* A new note: The email address 5atoshiNakamoto+pgp@simplelogin.com was added to this key since the previous warrant canary, in addition to the original key email, 5atoshiNakamoto.labbe@simplelogin.co. Note the difference of .com and .co, not an error.
+
+(Public Key may be found at https://5atoshiNakamoto.github.io/pgp, forwarding to https://keys.openpgp.org/search?q=5atoshiNakamoto%2Bpgp%40simplelogin.com, or at https://github.com/5atoshiNakamoto, as well as at https://keybase.io/5atoshiNakamoto)
+
+ * 5atoshiNakamoto is the account administrator of https://5atoshiNakamoto.github.io and the associated Github account, https://github.com/5atoshiNakamoto.
+
+
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+             LIBERTY CANARY
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+
+5atoshiNakamoto is in 100% control of all of his or her own hardware.
+
+5atoshiNakamoto will shut down before becoming complicit in crimes against his or her own userbase under duress of any government or organization.
+
+5atoshiNakamoto is not under duress of any government or organization.
+
+BANTU BITCOIN
+**************
+
+The podcast, Bantu Bitcoin, is hosted free at https://BantuBitcoin.substack.com under the administration of 5atoshiNakamoto. 
+
+5atoshiNakamoto is NOT a site-wide administrator of the wider domain https://substack.com, however (hopefully that is reasonably obvious).
+
+A Github organization for Bantu Bitcoin also exists at https://BantuBitcoin.github.io forwarding to the substack.
+
+
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+             WARRANT CANARY
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+
+No warrants have ever been served to me, 5atoshiNakamoto, by this pseudonym or by my real given name and legal government ID (e.g. to hand out private signing keys, or to introduce backdoors to any project in which I'm involved, in so far as I know), nor have any searches or seizures taken place of my own space.
+
+5atoshiNakamoto has not received:
+
+ * A gag order preventing the disclosure of a broad order for user metadata
+ * A gag order preventing the disclosure of a broad order for user data
+ * A gag order preventing the disclosure of a targeted order for user data
+ * A gag order preventing the disclosure of a targeted order for user metadata
+
+5atoshiNakamoto has never received a legal order enforceable in his or her jurisdiction for user data.
+
+5atoshiNakamoto has never received a legal order enforceable in his or her jurisdiction for any broad class of users.
+
+5atoshiNakamoto has never received a gag order preventing disclosure of any broad order.
+
+A gag order refers to any legal order enforceable in 5atoshiNakamoto's jurisdiction preventing disclosure of:
+ * A request or order for user information
+ * A request or order for investigative assistance
+ * A request or order for technical assistance
+ * Any other request, order, demand, or information of any type
+
+BANTU BITCOIN
+**************
+
+All the above holds true for Bantu Bitcoin as well.
+
+
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+             DEADLINE UPDATE
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+
+The next canary statement is planned to be published within 6 months, on or before 20, Jan. 2027.
+
+*Special note should be taken if no new canary gets published by that time, or if the list of statements change without plausible explanation.*
+
+Once again, an archive of former canaries can be found at https://5atoshiNakamoto.github.io/canaries.
+
+
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+              PROOF OF DATE
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+
+PROOF OF DATE is currently best demonstrated utilizing a combination of two(2) tools:
+
+(1) Printing a very recent Bitcoin block hash here demonstrates that this canary could not have been created PRIOR to the date and time of the Bitcoin block height stated (3 blocks back [~30 minutes] to protect against the (un)likelihood of block reorganization), and
+
+(2) Verifying the hash of this canary.txt file timestamped on https://OpenTimestamps.org and included in the Bitcoin timechain demonstrates that this canary could not have been created AFTER the date and time stated.
+
+Thus, a narrow window between these two results is the only plausible date and time for the creation and timestamped signature of this canary.
+
+(1) A very recent Bitcoin block hash:
+000000000000000000010d734c600b0746dd916a534bfd48c3bbdb9c5be305fe
+
+Block: 958890
+
+(You can easily view evidence of this Bitcoin block hash at a website like:
+https://mempool.space/block/000000000000000000010d734c600b0746dd916a534bfd48c3bbdb9c5be305fe)
+
+(2) Next, verify the matching hashes of the following files on https://OpenTimestamps.org and that it is included in a Bitcoin block sufficiently close in date and time to Block 958890 from Step 1.
+
+Download the two files at:
+* https://5atoshiNakamoto.github.io/canary.txt.ots
+* https://5atoshiNakamoto.github.io/canary.txt
+
+Then at https://OpenTimestamps.org, first drag (or otherwise, 'upload') the .txt.ots proof file into the STAMP & VERIFY box, followed by the .txt stamped file into the box below it.
+
+If all checks out, the files will both display a matching hash and the Bitcoin block height and time in which this hash was included.
+
+Compare this Bitcoin block height and time to Block 958890. Each difference in block height represents the passage of ~10 minutes. (Moreover, you might even subtract ~30 minutes, for the 3 blocks included here from my initial buffer.)
+
+This all serves to verify the approximate time of creation of this warrant canary including PGP signature, and the time of and until verification by OpenTimestamps.org. You may further compare these times with that of this [.txt] and the [.txt.ots] files uploaded on GitHub, https://github.com/5atoshiNakamoto/5atoshiNakamoto.github.io/commits/main/canaries, all within a relatively narrow window.
+
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+           DISCLAIMERS & NOTES
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+
+(1) No data within any files are actually uploaded to the servers at https://OpenTimestamps.org in the process of creating or verifying this timestamp. Only a SHA256 hash function occurs within the privacy of one's browser. In the timestamp creation process, only the hash of the file is included among many others in a Merkle tree of a subsequent Bitcoin block.
+
+(2) This scheme is not infallible. Although signing this declaration makes it difficult for a third party to produce arbitrary declarations, it does not prevent them from using force—or other means like blackmail or compromise of the signer's laptop(s), for example—to coerce one to produce false declarations.
+
+(3) This declaration is merely a best effort and provided without any guarantees, warranty, and is not legally binding in any way to anyone. No signer should ever be held legally responsible for any of the statements made here.
+
+(4) Failure to update this canary does not necessarily mean 5atoshiNakamoto has received a gag order; nor is not updating it—or omitting anything—an attempt to communicate anything to anyone. Frankly, it's also entirely plausible that 5atoshiNakamoto could have become otherwise incapacitated or lazy with his or her systems management of this website, leaving this canary to expire, but let's hope not. Have you asked him or her? This canary serves only to periodically confirm certain facts as long as they are presently true.
+
+(5) Compromise of the associated Github account, 5atoshiNakamoto, or PGP private key remains always a remote possibility.
+
+(6) Doing the best we can.
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmpeJx0ACgkQ9XrH8ZJg
+JcM01xAAuf5xuHQh0GHZURVxeAC30A1Tb9RP6HeTu5k/7lVra/sgi4d5wZgRYeVN
+0TRh42Pse0/2qbA856vc6Cc7mr5d9grWYlOSBmHRrnOjCQe4lXxj7Y2Za8mdkdjW
+vg2SXXGP/iAU5uEfx7ywb+bsR08Zbomz8xNbbEDddlIlsjpmdTyUb25PIfwhMHOp
+NM/HqVz0oIEokMc0qZtWUSzbByJq6u4hlFXCpLx131GPvQCSI5O2ctDmMoJJ8xyh
+8wmj45wY1wS+HmuJ8t/IJ3wNT8QF0XZ6bgzsTWo/vHgPKi3p84EW5GuZik4kJSDW
+9xJczIQXXLg5DYYi6xxvyO6aVv6vkwoasw8bPI1SNp1TS27YH+e6lLyqr3Oezoyr
+kg19Ou8Nxl/qLZAG4s9L6wTaL5uJd/FaCxhZvK0ahQq6+EGJq411z6aCzH5v0oAW
+3kYNPDOy7CJkkThKVjAea0Gc41Q7ILjmrz5U2xWFx5GCKAB/uyVOYHwEaG/DlsRX
+61ws/Y2o0OekWIh5QovzuB1pjmHR1Ow68DoZovBLmIg9jBIKip5Au7PV4+Y/nbV+
+0WT60hzZ4VyGFeOu27mVhkcYBE3RWoqxbILevd1Azjl9CSHwi6RdXnnkLkGo4H2f
+lCV2zUcCNXf5tUcs9TQ8dIGJ3MSJ3MMaCQZ6fDb6HeP6Qa0oYUw=
+=oECL
+-----END PGP SIGNATURE-----
