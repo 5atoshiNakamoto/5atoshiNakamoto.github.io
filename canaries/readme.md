@@ -22,10 +22,12 @@ The next canary statement is planned to be signed and published within 6 months,
 
 | YYYY-MM-DD | Block | .txt | .txt.ots | Block |
 | --- | --- | --- | --- | --- |
+| 2026-07-20 | 958890 | [2026-07-20.txt](./2026-07-20.txt) | [2026-07-20.txt.ots](./2026-07-20.txt.ots) | 95889...? |
 | 2026-01-19 | 932873 | [2026-01-19.txt](./2026-01-19.txt) | [2026-01-19.txt.ots](./2026-01-19.txt.ots) | 932880 |
 
 | SHA256 |
 | --- |
+| 2026-07-20: df5c55faaf7b55050f6d2debc5a75613f79eff5d613078b93aca43d1eab0eaea |
 | 2026-01-19: 8d2ad3b961e6d89b08cc823d660990963b6bb8fef80cb3c88c0db442e0aecbf6 |
 
 [🔝](#archive)
