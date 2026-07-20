@@ -2,6 +2,7 @@
 Hash: SHA256
 
 This is 5atoshiNakamoto's most recent Warrant Canary.
+
 This file version can be accessed at https://5atoshiNakamoto.github.io/canary.txt
 
 An archive of former canaries can be found at https://5atoshiNakamoto.github.io/canaries
@@ -9,32 +10,35 @@ An archive of former canaries can be found at https://5atoshiNakamoto.github.io/
 BANTU BITCOIN
 **************
 
-As per the last "cross-over" canary, Bantu Bitcoin will not be signing this nor future canaries.
+As per a previous "cross-over" canary, Bantu Bitcoin will not be signing this nor future canaries.
 
-An archive of the last and all former canaries specific to Bantu Bitcoin can be found at https://5atoshiNakamoto.github.io/Bantu-Bitcoin/canaries 
+An archive of the final and all former canaries specific to Bantu Bitcoin can be found at https://5atoshiNakamoto.github.io/Bantu-Bitcoin/canaries 
 
 All that is signed herein applies for Bantu Bitcoin as well.
 
-~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
-				STATEMENTS
-~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+               STATEMENTS
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
 
- * The issue date of this canary is today: Mon. 19, Jan. 2026. (See DEADLINE UPDATE and PROOF OF DATE below.)
+ * The issue date of this canary is today: Mon. 20, July 2026. (See DEADLINE UPDATE and PROOF OF DATE below.)
 
  * 5atoshiNakamoto's main signing key is used to sign this canary:
 
 ID: 0x926025C3
 Fingerprint: 51AE 7F50 3F5F 6404 FBEC 93CB F57A C7F1 9260 25C3
-Comment: 5atoshiNakamoto.labbe@simplelogin.co
+Comment: 5atoshiNakamoto+pgp@simplelogin.com
+Comment: 5atoshiNakamoto.labbe@simplelogin.co 
 
-(Public Key may be found at https://5atoshiNakamoto.github.io/public-key, forwarding to https://keys.openpgp.org/search?q=5atoshiNakamoto.labbe@simplelogin.co, as well as at https://github.com/5atoshiNakamoto, and even at https://keybase.io/5atoshiNakamoto)
+* A new note: The email address 5atoshiNakamoto+pgp@simplelogin.com was added to this key since the previous warrant canary, in addition to the original key email, 5atoshiNakamoto.labbe@simplelogin.co. Note the difference of .com and .co, not an error.
+
+(Public Key may be found at https://5atoshiNakamoto.github.io/pgp, forwarding to https://keys.openpgp.org/search?q=5atoshiNakamoto%2Bpgp%40simplelogin.com, or at https://github.com/5atoshiNakamoto, as well as at https://keybase.io/5atoshiNakamoto)
 
  * 5atoshiNakamoto is the account administrator of https://5atoshiNakamoto.github.io and the associated Github account, https://github.com/5atoshiNakamoto.
 
 
-~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
-				LIBERTY CANARY
-~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+             LIBERTY CANARY
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
 
 5atoshiNakamoto is in 100% control of all of his or her own hardware.
 
@@ -52,9 +56,9 @@ The podcast, Bantu Bitcoin, is hosted free at https://BantuBitcoin.substack.com 
 A Github organization for Bantu Bitcoin also exists at https://BantuBitcoin.github.io forwarding to the substack.
 
 
-~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
-				WARRANT CANARY
-~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+             WARRANT CANARY
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
 
 No warrants have ever been served to me, 5atoshiNakamoto, by this pseudonym or by my real given name and legal government ID (e.g. to hand out private signing keys, or to introduce backdoors to any project in which I'm involved, in so far as I know), nor have any searches or seizures taken place of my own space.
 
@@ -83,38 +87,38 @@ BANTU BITCOIN
 All the above holds true for Bantu Bitcoin as well.
 
 
-~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
-				DEADLINE UPDATE
-~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+             DEADLINE UPDATE
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
 
-The next canary statement is planned to be published within 6 months, on or before 19, July 2026.
+The next canary statement is planned to be published within 6 months, on or before 20, Jan. 2027.
 
 *Special note should be taken if no new canary gets published by that time, or if the list of statements change without plausible explanation.*
 
 Once again, an archive of former canaries can be found at https://5atoshiNakamoto.github.io/canaries.
 
 
-~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
-				PROOF OF DATE
-~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+              PROOF OF DATE
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
 
 PROOF OF DATE is currently best demonstrated utilizing a combination of two(2) tools:
 
-(1) Printing a very recent Bitcoin block hash demonstrates that this canary could not have been created PRIOR to the date and time of the Bitcoin block height stated (3 blocks back [~30 minutes] to protect against the (un)likelihood of block reorganization), and
+(1) Printing a very recent Bitcoin block hash here demonstrates that this canary could not have been created PRIOR to the date and time of the Bitcoin block height stated (3 blocks back [~30 minutes] to protect against the (un)likelihood of block reorganization), and
 
-(2) Verifying the hash of this canary.txt file timestamped on https://OpenTimestamps.org and included in the Bitcoin blockchain demonstrates that this canary could not have been created AFTER the date and time stated.
+(2) Verifying the hash of this canary.txt file timestamped on https://OpenTimestamps.org and included in the Bitcoin timechain demonstrates that this canary could not have been created AFTER the date and time stated.
 
 Thus, a narrow window between these two results is the only plausible date and time for the creation and timestamped signature of this canary.
 
 (1) A very recent Bitcoin block hash:
-000000000000000000012040fbd86d4bcccbb2a811478224bb545db1d0a5f91c
+000000000000000000010d734c600b0746dd916a534bfd48c3bbdb9c5be305fe
 
-Block: 932873
+Block: 958890
 
 (You can easily view evidence of this Bitcoin block hash at a website like:
-https://mempool.space/block/000000000000000000012040fbd86d4bcccbb2a811478224bb545db1d0a5f91c)
+https://mempool.space/block/000000000000000000010d734c600b0746dd916a534bfd48c3bbdb9c5be305fe)
 
-(2) Next, verify the matching hashes of the following files on https://OpenTimestamps.org and that it is included in a Bitcoin block sufficiently close in date and time to Block 932873 from Step 1.
+(2) Next, verify the matching hashes of the following files on https://OpenTimestamps.org and that it is included in a Bitcoin block sufficiently close in date and time to Block 958890 from Step 1.
 
 Download the two files at:
 * https://5atoshiNakamoto.github.io/canary.txt.ots
@@ -124,13 +128,13 @@ Then at https://OpenTimestamps.org, first drag (or otherwise, 'upload') the .txt
 
 If all checks out, the files will both display a matching hash and the Bitcoin block height and time in which this hash was included.
 
-Compare this Bitcoin block height and time to Block 932873. Each difference in block height represents the passage of ~10 minutes.
+Compare this Bitcoin block height and time to Block 958890. Each difference in block height represents the passage of ~10 minutes. (Moreover, you might even subtract ~30 minutes, for the 3 blocks included here from my initial buffer.)
 
-This all serves to verify the approximate time of creation of this warrant canary including PGP signature, and the time of verification by OpenTimestamps.org. You may further compare these times with the time of upload on Github, all within a relatively narrow window.
+This all serves to verify the approximate time of creation of this warrant canary including PGP signature, and the time of and until verification by OpenTimestamps.org. You may further compare these times with that of this [.txt] and the [.txt.ots] files uploaded on GitHub, https://github.com/5atoshiNakamoto/5atoshiNakamoto.github.io/commits/main/canaries, all within a relatively narrow window.
 
-~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
-				DISCLAIMERS & NOTES
-~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
+           DISCLAIMERS & NOTES
+~!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!~
 
 (1) No data within any files are actually uploaded to the servers at https://OpenTimestamps.org in the process of creating or verifying this timestamp. Only a SHA256 hash function occurs within the privacy of one's browser. In the timestamp creation process, only the hash of the file is included among many others in a Merkle tree of a subsequent Bitcoin block.
 
@@ -145,17 +149,17 @@ This all serves to verify the approximate time of creation of this warrant canar
 (6) Doing the best we can.
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmltprEACgkQ9XrH8ZJg
-JcOVYxAAzzpUFAtuwQzcQPoJ/2HLSeyteTfgw2V9kXltevdtZn5vxbdaIjep06B3
-+eKvjhf2OCanWBSdBaIcr6UyTGFABF6GN5CdBp2eCI5r5Dw0LOTPfqZOlf4L4AUZ
-DQUIqDJTZ6n8KTjZvuq3WT4bJ6osdGSqctY8P/fEKaAqKU1WAWWtJW0RUpyuoM6P
-Qj3zDNIK4eZMjMAo22eZRoeVMmMFfgmmZd30G2t4k4GLpzJaDeX/ktazbvN14giI
-wbYDFPOc94NfkQI5wHy22TMPsnlMQHpe5BlJjhEJ3ShmE8LP67n9E/vTstaLCF7g
-Z3R/gPerfyaiID+GxMhFSV5ivX77sgPjKchX7QQUKn6V9qBVMnSackldi6BbL2WT
-NjyM0OgycxelQckqz66f3oudL+JJ4qgQntPqMEAzNrUi3mVlTlZk5vpZ/kKUDeyy
-0aJGajP7sOy/vZbemNhGrzPc77AjeviKg8x/Kw+XhFVTVB8PrH1SnbLqJTkxT3Ts
-nAU0FMfbqPkv0o9gMlOYaMYQ2o/c+4GN21A513J6+dDf3gTxq2+zb9dVReXMwoU5
-Cff4WIpCycNTH+YP2SdITyf3UQYv8wQrQS1lKGZDfySCxVHYUw9KNJFP1nqd/RW8
-gblZXJGjcpOsJBJ8PsFhStH8Gt03lzun3bc/oeliDxMws5aDtSQ=
-=JQqC
+iQIzBAEBCAAdFiEEUa5/UD9fZAT77JPL9XrH8ZJgJcMFAmpeJx0ACgkQ9XrH8ZJg
+JcM01xAAuf5xuHQh0GHZURVxeAC30A1Tb9RP6HeTu5k/7lVra/sgi4d5wZgRYeVN
+0TRh42Pse0/2qbA856vc6Cc7mr5d9grWYlOSBmHRrnOjCQe4lXxj7Y2Za8mdkdjW
+vg2SXXGP/iAU5uEfx7ywb+bsR08Zbomz8xNbbEDddlIlsjpmdTyUb25PIfwhMHOp
+NM/HqVz0oIEokMc0qZtWUSzbByJq6u4hlFXCpLx131GPvQCSI5O2ctDmMoJJ8xyh
+8wmj45wY1wS+HmuJ8t/IJ3wNT8QF0XZ6bgzsTWo/vHgPKi3p84EW5GuZik4kJSDW
+9xJczIQXXLg5DYYi6xxvyO6aVv6vkwoasw8bPI1SNp1TS27YH+e6lLyqr3Oezoyr
+kg19Ou8Nxl/qLZAG4s9L6wTaL5uJd/FaCxhZvK0ahQq6+EGJq411z6aCzH5v0oAW
+3kYNPDOy7CJkkThKVjAea0Gc41Q7ILjmrz5U2xWFx5GCKAB/uyVOYHwEaG/DlsRX
+61ws/Y2o0OekWIh5QovzuB1pjmHR1Ow68DoZovBLmIg9jBIKip5Au7PV4+Y/nbV+
+0WT60hzZ4VyGFeOu27mVhkcYBE3RWoqxbILevd1Azjl9CSHwi6RdXnnkLkGo4H2f
+lCV2zUcCNXf5tUcs9TQ8dIGJ3MSJ3MMaCQZ6fDb6HeP6Qa0oYUw=
+=oECL
 -----END PGP SIGNATURE-----
